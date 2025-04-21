@@ -21,5 +21,3 @@ followed up by the unshredded version.
 If you wish to try new parameters, rerun the Assign2.java file.
 
 A demonstrated trial can be found under the Results folder to show how the console will look once the program is done running.
-
-A Assign2.jar file can be found under out/production/02
