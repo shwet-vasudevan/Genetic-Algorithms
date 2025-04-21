@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+98165196516
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   98165196516
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.229994298053                780.5458831696533
+789.5949474938103               772.4721046962674
+785.7395157307043               768.100430709233
+782.5391333783629               766.45596144016
+778.9456689308066               763.2106136411043
+775.3901450875624               759.8433776648094
+771.5211196221545               759.8433776648094
+766.6527612751801               756.2448723427211
+764.333866513198                756.2448723427211
+762.5255136053572               751.4974404119647
+760.905749028463                751.4974404119647
+757.7900600914029               750.9341396931222
+754.9350627671963               750.9341396931222
+755.1342496240467               750.9341396931222
+753.6589493781779               750.9341396931222
+752.8074162499186               750.9341396931222
+752.1821465426599               750.9341396931222
+751.4469022768905               750.9341396931222
+751.3146727167219               750.9341396931222
+751.3647893303422               750.9341396931222
+751.4946222819909               750.9341396931222
+751.7612655293086               750.9341396931222
+751.7946296119968               750.9341396931222
+751.3474762147924               750.9341396931222
+751.3030938945938               750.9341396931222
+751.3017520718442               750.9341396931222
+751.2457825062048               750.9341396931222
+751.0493388386506               750.9341396931222
+750.9734755360716               750.9341396931222
+750.9734755360716               750.9341396931222
+750.9734755360716               750.9341396931222
+750.9734755360716               750.9341396931222
+750.9734755360716               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+750.9341396931243               750.9341396931222
+
+9 6 0 4 14 7 5 1 3 8 12 13 11 2 10 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+MartThe ians se
+o haem tve calc
+ed tulatheir de
+t wiscenth amaz
+subting lety—th
+matheir ematica
+arnil leng is e
+ntlyvide far in
+ess  excof ours
+ to —andhave ca
+d ourriet their
+para pretions w
+a weith ll-nigh
+fect per unanim
+ Hadity. our in
+mentstrus permi
+ it,tted we mig
+ave ht hseen th
+there gaing tro
+ faruble back i
+e nin thneteent
+nturh cey. Men 
+ Schlikeiaparel
+atchli wed the 
+planred et—it i
+d, bs ody-the-b
+thatye,  for co
+ess untlcenturi
+ars es Mhas bee
+e stn thar of w
+ut far—bailed t
+terpo inret the
+ctua fluting ap
+ancepears of th
+rkine mags they
+ped  mapso well
+l th. Alat time
+ Mar thetians m
+haveust  been g
+ng rettieady. D
+g thurine oppos
+n ofitio eighte
+ineten ny four 
+eat a grlight w
+een as son the 
+minailluted par
+ thet of disk, 
+t atfirs the Li
+bserck Ovatory,
+n by the Perrot
+f Niin oce, and
+n by the other 
+rverobses. Engl
+readish ers hea
+f itrd o first 
+he iin tssue of
+ure  Natdated A
+t 2.ugus I am i
+ned nclito thin
+at tk thhis bla
+ay hze mave bee
+e can thsting o
+e huf thge gun,
+the  in vast pi
+nk it sunto the
+laneir pt, from
+ch t whiheir sh
+wereots  fired 
+s. Pat ueculiar
+king mars, as y
+nexpet ulained,
+e se weren near
+ sit thee of th
+utbrat oeak dur
+the ing next tw
+posio options. 
+storThe m burst
+n us upo six ye
+ago ars now. As
+s ap Marproache
+posid option, L
+le oavelf Java 
+the set wires o
+e asf thtronomi
+exchcal ange pa
+atinlpitg with 
+amazthe ing int
+gencellie of a 
+ outhugebreak o
+candf inescent 
+upongas  the pl
+. Itanet had oc
+ed tcurrowards 
+ightmidn of the
+lfth twe; and t
+pecthe sroscope
+ whi, toch he h
+t onad ace reso
+, inrteddicated
+ass  a mof flam
+gas,ing  chiefl
+drogy hyen, mov
+withing  an eno
+s vermoulocity 
+rds towathis ea
+ Thirth.s jet o
+re hf fiad beco
+nvisme iible ab
+a quout arter p
+twelast ve. He 
+aredcomp it to 
+lossa coal puff
+flam of e sudde
+and nly violent
+quirly sted out
+the  of planet,
+ fla “asming ga
+rushses ed out 
+ gunof a.” A si
+arlyngul approp
+e phriatrase it
+ved. pro Yet th
+xt de neay ther
+s noe wathing o
+is if thn the p
+s exapercept a 
+le nlittote in 
+Dailthe y Teleg
+, anraphd the w
+ wenorldt in ig
+nce noraof one 
+he gof travest 
+ers dangthat ev
+hreaer ttened t
+umanhe h race. 
+ght I minot hav
+ard e heof the 
+tionerup at all
+ I n hadot met 
+vy, Ogilthe wel
+own l-knastrono
+ at mer,Ottersh
+He waw. as imme
+y exnselcited a
+e net thws, and
+the  in excess 
+is fof heelings
+ited inv me up 
+ake to ta turn 
+ himwith that n
+ in ighta scrut
+of tiny he red 
+et. planIn spit
+ alle of that h
+appeas hned sin
+I stce, ill rem
+r thembeat vigi
+ry dl veistinct
+the ly: black a
+ilennd st obser
+ry, vatothe sha
+d ladowentern t
+ing hrowa feebl
+ow ue glpon the
+or i flon the c
+r, tornehe stea
+ickidy tng of t
+lockhe cwork of
+ tel theescope,
+ lit thetle sli
+ thet in roof—a
+longn ob profun
+ witdityh the s
+ust tardstreake
+rossd ac it. Og
+ movilvyed abou
+nvist, iible bu
+diblt aue. Look
+throing ugh the
+esco telpe, one
+ a c sawircle o
+ep bf delue and
+ lit thetle rou
+lanend pt swimm
+in ting he fiel
+t sed. Iemed su
+ litch atle thi
+so bng, right a
+mallnd s and st
+ faiill,ntly ma
+ witrkedh trans
+e stversripes, 
+sligand htly fl
+ned attefrom th
+rfece pet round
+t so. Bu little
+was, it  so sil
+ warverym—a pin
+ead ’s hof ligh
+t wat! Is as if
+quiv it ered, b
+eallut ry this 
+the was telesco
+ibrape vting wi
+he ath tctivity
+the  of clockwo
+hat rk tkept th
+anete pl in vie
+s I w. Awatched
+e pl, thanet se
+ to emedgrow la
+ andrger smalle
+d tor an advanc
+d ree ancede, b
+hat ut twas sim
+thatply  my eye
+ tir wased.  

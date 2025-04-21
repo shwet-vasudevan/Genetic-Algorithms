@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+98165196516
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   98165196516
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.350294649999                779.6227177817786
+791.6160147906438               779.6570839997893
+790.0065648725706               772.9705022397873
+789.2316516152222               773.8924689244743
+788.4066449656801               768.5482957130444
+784.4585977518791               762.6399707022481
+782.6659525872425               760.1985613857362
+781.2425244315102               760.1985613857362
+779.6604852926434               756.7908790004868
+776.5633800989697               756.7908790004868
+774.9423192532688               756.7908790004868
+772.1704264407313               756.7908790004868
+768.0533534781273               753.5385378366447
+764.8686474499233               753.5385378366447
+763.234686259448                753.5385378366447
+760.0437068876032               753.5385378366447
+757.58512699237         753.5385378366447
+756.1044186249134               753.5385378366447
+754.5051412731616               753.5385378366447
+753.8773583806278               753.5385378366447
+753.69788992681         753.5385378366447
+753.5769448091327               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+753.5385378366454               753.5385378366447
+
+7 5 1 9 12 13 11 2 10 6 0 4 3 8 14 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+he Mns seartiaT
+m to calc havee
+lateir ded theu
+cent amaz withs
+ng sty—thubtlei
+ir maticaatheme
+ lea is erningl
+idenar intly fv
+exce oursss of 
+and ve cato ha—
+riedtheir out r
+prepons warati 
+th a-nigh welli
+perfnanimect u 
+ty. ur inHad oi
+trumpermients s
+ted e migit, wt
+t haen thve seh
+ gatg troherine
+ble ack ifar bu
+ theteent ninen
+ cen Men tury.h
+ike parelSchial
+i wa the tchedl
+ed p—it ilanetr
+ oddthe-b, by-s
+e, tor cohat fy
+ntlenturiss ceu
+s Mas beers hae
+ the of w starn
+r—buled tt faia
+ intt theerpreo
+flucng aptuati 
+earaof thnces p
+ mar theykingse
+mapp welled so 
+ All time that.
+the ans mMarti 
+st heen gave bu
+ttindy. Dg reae
+ringoppos the u
+tionighte of ei
+n nifour nety e
+ greght wat lia
+s se the en ona
+llumd parinatei
+ of isk, the dt
+irsthe Li at tf
+k Obtory,servac
+thenerrot by P 
+n of, and Nicei
+thenther  by o 
+bser Englvers.o
+sh rs heaeaderi
+d ofirst  it fr
+n thue ofe issi
+Natuted Are da 
+gust am i 2. Iu
+clin thined ton
+ thas blat thik
+e mae beey havz
+ theing o castn
+ the gun, hugef
+in tst pihe va 
+ suno thek intt
+r pl fromanet,i
+whicir shh the 
+ts wired ere fo
+t usuliar. Peca
+mark as yings, 
+t unined,explae
+were near seen 
+the of thsite  
+t ouk durtbreaa
+ng txt twhe nei
+ oppons. ositio
+he sbursttorm T
+uponix ye us s 
+rs aw. Asgo noa
+Marsoache appr 
+ oppon, Lositid
+vellJava e of a
+et tres ohe wis
+ theonomi astrf
+al ege paxchanc
+pitawith ting l
+he ag intmazint
+lligof a ence e
+uge eak ooutbrh
+ inccent andesf
+as uhe plpon tg
+net.ad oc It ha
+urreards d towc
+idnif theght om
+tweland tfth;  
+e spscopeectroh
+ to  he hwhich,
+d at reso oncea
+ted,cated indir
+a ma flamss of 
+ng ghieflas, ci
+ hyd, movrogeny
+ng wn enoith ai
+mouscity  velor
+owaris eads tht
+th. jet oThis r
+ fir becoe hadf
+e inle abvisibm
+ut ater p quaro
+st t. He welvea
+ompat to red ic
+ col puffossala
+of fsuddelame  
+ly aolentnd vin
+y sqd outuirtel
+of tanet,he pl 
+“as ng gaflami 
+es r out usheds
+f a  A sigun.”o
+gulapproprly an
+iatese it phrar
+provet thed. Y 
+ nex thert daye
+ wasing o nothe
+ thithe ps in f
+perspt a  excea
+ittle in e notl
+he DTelegaily t
+aph,the w and r
+rld in igwent o
+oran one ce ofn
+f thvest e grao
+angeat evrs thd
+r thned treatee
+e huace. man rh
+ migt havht noI
+ hea the rd ofe
+ruptt allion ae
+had  met I not 
+gilve wely, thO
+-knotronown asl
+er, tershat Otm
+w. H immee wasa
+selyted a excin
+ the, and newst
+in tcess he ex 
+f hilingss feeo
+invie up ted m 
+o taturn ke a t
+ith hat nhim tw
+ght scrutin a i
+ny o red f thei
+lane spitt. Inp
+ of hat hall te
+s had sinppenea
+e, Il rem stilc
+mber vigi thate
+ vertincty disl
+y: tack ahe bll
+d siobserlent n
+atore shay, thv
+owedern t lantd
+rowifeeblng a h
+ glon thew upoe
+floothe cr in  
+rner stea, theo
+y ti of tckingd
+e clrk ofockwoh
+the cope,teles 
+the e slilittl 
+ in oof—athe rt
+ oblrofunong pn
+ity the swith d
+ardureakest stt
+ acrt. Ogoss id
+lvy  aboumovedi
+, inle buvisibt
+ aud Lookible.t
+ng th thehrougi
+tele, onescope 
+saw cle oa cir 
+ deee andp bluf
+the e roulittl 
+d plswimmanet n
+ng i fieln thei
+. Ited su seemd
+h a e thilittlc
+g, sght ao brin
+d smnd stall an
+ll, ly mafainti
+ked transwith r
+ersepes,  striv
+nd sly fllighta
+ttenom thed fra
+ perroundfect e
+ Butittle so l.
+it wo silas, s 
+ery a pinwarm—v
+s he lighad of’
+! Itas if was t
+it qed, buiver 
+t rethis ally u
+as tlescohe tew
+e ving wibratip
+h thivitye actt
+of tockwohe cl 
+k thpt that ker
+ plan vienet ie
+. Astched I waw
+ theet se plan,
+med ow lato gre
+ger malleand sr
+ anddvanc to ar
+ andde, b recee
+t ths simat wau
+ly ty eyehat mp
+was .    tired 

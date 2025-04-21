@@ -1,0 +1,739 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.8
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.1
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+685431651544
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.8
+MUTATION RATE:          0.1
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   685431651544
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+923.0402538291248               909.6962375795889
+919.8600401921528               905.3964946290033
+917.1090545578362               903.3841464644215
+916.1124199014703               898.1017788925946
+914.100099359319                897.4160800061748
+913.6269109424974               891.054898674347
+911.9551833820557               891.054898674347
+909.7396617306248               886.8791611976928
+907.9350086186955               886.8791611976928
+904.264264426414                883.7578093295093
+903.6264453298659               883.7578093295093
+895.3729755675529               883.7578093295093
+902.739697087518                883.7578093295093
+902.5699831891726               883.7578093295093
+893.9059116210279               883.7578093295093
+895.4886759635914               883.3214990127271
+899.3466136517407               883.3214990127271
+895.6107431906619               883.3214990127271
+896.0070167586157               883.3214990127271
+893.1489661103168               881.7770927793165
+898.3478657825268               881.7770927793165
+899.3617748792038               881.7770927793165
+896.547970596149                881.7770927793165
+896.0387497574027               881.7770927793165
+894.3400957443852               881.7770927793165
+897.4394993177839               881.7770927793165
+890.1270586301232               881.7770927793165
+885.1464933618157               881.7770927793165
+894.1485092052152               881.7770927793165
+900.5353690575171               881.7770927793165
+907.7435628844968               881.7770927793165
+901.1979409601352               881.7770927793165
+893.3703221755615               881.7770927793165
+889.6700296258277               881.7770927793165
+889.0636257255765               881.7770927793165
+889.7885042761991               881.7770927793165
+890.9198813448775               881.7770927793165
+891.269128725167                881.7770927793165
+888.0619714464648               881.7770927793165
+888.4830547187885               881.7770927793165
+886.3591764526146               881.6680385396058
+893.9564770181423               881.6680385396058
+895.6283147144735               881.6680385396058
+897.0136267677726               881.6680385396058
+893.7723923612492               881.6680385396058
+897.0677266163797               881.6680385396058
+900.4801387898272               881.6680385396058
+907.2794273447524               881.6680385396058
+904.0529890535578               881.6680385396058
+899.2181479748187               881.6680385396058
+893.131583734084                881.6680385396058
+904.5315851953097               881.6680385396058
+907.1873667611561               881.6680385396058
+903.7535811839159               881.6680385396058
+895.5726205725827               881.6680385396058
+892.0335655860322               881.6680385396058
+890.0884561053011               881.6680385396058
+892.2427153942094               881.6680385396058
+893.5013475212073               881.6680385396058
+888.4956919561154               881.6680385396058
+899.202827922177                881.6680385396058
+894.1268676532466               881.6680385396058
+888.7711946890261               881.6680385396058
+891.628238209527                881.6680385396058
+900.6936842339668               881.6680385396058
+892.7111138908189               881.6680385396058
+895.2207405460888               881.6680385396058
+900.4998558412299               881.6680385396058
+895.9284690080343               881.6680385396058
+896.3732363904502               878.4355589076073
+894.1482431267012               878.4355589076073
+898.927162600305                878.4355589076073
+896.9611623729028               878.4355589076073
+894.4427829514644               878.4355589076073
+901.6739061348          878.4355589076073
+892.0640923776161               878.4355589076073
+891.4161752053501               878.4355589076073
+890.9332988124377               878.4355589076073
+888.4300109477272               878.4355589076073
+888.8512309895173               878.4355589076073
+885.2640163401232               878.4355589076073
+887.7781043319698               878.4355589076073
+890.7325667933761               878.4355589076073
+892.0854249696276               878.4355589076073
+895.8411786328965               878.4355589076073
+893.5513885588648               878.4355589076073
+890.7441144461071               878.4355589076073
+900.2008803837192               878.4355589076073
+897.5071496320463               878.4355589076073
+888.2165759224602               878.4355589076073
+886.9496952985915               878.4355589076073
+888.0717612922396               878.4355589076073
+894.5216245381582               878.4355589076073
+891.9861210366785               878.4355589076073
+903.5084145080662               878.4355589076073
+895.1203095326485               878.4355589076073
+893.39225390804         878.4355589076073
+887.2451822744522               878.4355589076073
+896.5928141418855               878.4355589076073
+894.2031250181661               878.4355589076073
+889.6252206162807               878.4355589076073
+904.8254974230732               878.4355589076073
+899.4964640707346               878.4355589076073
+895.9257572373514               878.4355589076073
+891.8597342077944               878.4355589076073
+890.431077800226                878.4355589076073
+887.2000325154426               878.4355589076073
+890.543469232278                878.4355589076073
+892.7889648728091               878.4355589076073
+889.5790389475293               878.4355589076073
+884.9329749772376               878.4355589076073
+883.2135625951108               878.4355589076073
+881.7211749930249               878.4355589076073
+891.2105945863411               878.4355589076073
+883.2410599403727               878.4355589076073
+892.1091012510027               878.4355589076073
+902.3024222077684               878.4355589076073
+895.3466148389186               878.4355589076073
+904.3741850880309               878.4355589076073
+899.3695690746025               878.4355589076073
+898.073973711331                878.4355589076073
+912.8978010837304               878.4355589076073
+902.2406076332405               878.4355589076073
+894.5855672855078               878.4355589076073
+889.6691374145954               878.4355589076073
+888.1716521989532               878.4355589076073
+885.0748919303713               878.4355589076073
+890.1917366701605               878.4355589076073
+890.7960634501886               878.4355589076073
+886.9102842028664               878.4355589076073
+888.8392207217398               878.4355589076073
+888.960577678194                878.4355589076073
+888.66725134719         878.4355589076073
+891.7151584912489               878.4355589076073
+889.9290575671745               878.4355589076073
+886.00179706885         878.4355589076073
+884.8793756811968               878.4355589076073
+883.9911753566338               878.4355589076073
+892.1341659728339               878.4355589076073
+890.3133971292491               878.4355589076073
+885.77180613725         878.4355589076073
+884.8362709971236               878.4355589076073
+885.2476238400106               878.4355589076073
+886.5322359884935               878.4355589076073
+886.7730116473939               878.4355589076073
+892.1761664221754               878.4355589076073
+891.9860947852856               878.4355589076073
+893.0465433129691               878.4355589076073
+894.3524021762237               878.4355589076073
+888.3053383128047               878.4355589076073
+899.9560321056957               878.4355589076073
+890.1894563102812               878.4355589076073
+892.8757846432513               878.4355589076073
+888.3905552268948               878.4355589076073
+887.9111309460876               878.4355589076073
+887.9308857078256               878.4355589076073
+888.8376804562763               878.4355589076073
+887.5761503043198               878.4355589076073
+896.7820506259199               878.4355589076073
+894.9393002245181               878.4355589076073
+887.0073422294097               878.4355589076073
+898.7398561660825               878.4355589076073
+895.2639839974363               878.4355589076073
+891.0389004141878               878.4355589076073
+898.7854732339947               878.4355589076073
+897.8532396809221               878.4355589076073
+891.3127870663951               878.4355589076073
+885.2133535508234               878.4355589076073
+882.2199709502081               878.4355589076073
+889.9783249404384               878.4355589076073
+895.9043842362022               878.4355589076073
+890.8652573570606               878.4355589076073
+896.0477527284513               878.4355589076073
+901.3157924743899               878.4355589076073
+893.2704321382148               878.4355589076073
+890.9563082094435               878.4355589076073
+893.8769400784116               878.4355589076073
+889.029734875983                878.4355589076073
+886.4313549188887               878.4355589076073
+884.8763353099196               878.4355589076073
+886.2896638012805               878.4355589076073
+892.4835293427878               878.4355589076073
+892.5923028010466               878.4355589076073
+890.0571282436044               878.4355589076073
+887.2896414322147               878.4355589076073
+885.6265347560844               878.4355589076073
+883.2969576509738               878.4355589076073
+895.8841316112566               878.4355589076073
+904.5006249856907               878.4355589076073
+898.4345581887213               878.4355589076073
+894.458023455446                878.4355589076073
+887.0966732354133               878.4355589076073
+888.2108172470653               878.4355589076073
+887.5407800291853               878.4355589076073
+890.285436571862                878.4355589076073
+894.8719092059177               878.4355589076073
+897.8435686397839               878.4355589076073
+895.3383671935562               878.4355589076073
+889.1324939323769               878.4355589076073
+887.0519227739328               878.4355589076073
+
+2 6 4 1 8 11 5 13 14 0 12 3 10 7 9 
+
+------SHREDDED DOCUMENT------
+
+ l hecHkloToSro
+saashsl  wmi ee
+ Inhem.aw yot s
+aeme d oeh lvsh
+dnthiein oam mr
+e a urn dy ernh
+h  r eI.anoment
+sceeys hseh  ei
+pdpesdr aelns i
+iheatt hswo nem
+e.sofre hxoe  l
+ta waott h n sI
+hen f yal ttee 
+t  onitnaomki o
+v e fInrrel eoo
+lter.lm AoAle d
+n h,  atntidsao
+ellpacautroi rn
+ eoerbrh ryawe,
+ ,oo  lcidnstht
+rdtcib uea  esp
+reablanl cmbayi
+m,wndea  sdHi. 
+ e aktt, h iteI
+orct ftee  rspm
+sbdnia ngoe ona
+rehinaic nsmvge
+hdot  rwhl eatt
+a b s,u et nseh
+ wh lre v aeaos
+lel h apvcoedau
+h nms  iladfie 
+l.ie iotonfsspa
+eepne osek r vH
+f tthoef r s eo
+s aio vssep,sna
+td  abaegnwih i
+  hne eTry .sea
+r b arlamewiede
+i tgsrh feton h
+slcrveexrlo eeb
+tgwforia ned rn
+h r v ofim leet
+naes isvo mt’me
+ t ctsB.ounnaid
+oea ttiren  rhf
+ratasro n deeo 
+iun s ticrdhtum
+o hs oi nsstnii
+nnedea tiaoc lw
+ftjneaudysd il 
+  eemanmetertpd
+scototdriuwn  a
+agtdiaictner s 
+amctohhi   wcrf
+hoa tw  rdiothg
+tilupa lnhu  ob
+mtsntruells ea 
+ earin   ssiGt.
+imtivnrs unites
+tkr o ac cea,rn
+n honfi  s o ei
+n whipeohro- gw
+nnlesodu  lws,e
+ tde ei osorbmt
+bs ngaant uhi r
+oiog tnim toner
+ahsnaeu ucnr t 
+sedhiA n.y   sa
+tt erabs utwhe 
+nht wno m  aeoo
+,otanh a wit dm
+nt wahle amt sa
+I eendrl ,eAre 
+  aubsn odoudif
+eeetib lnmqasou
+re . asd emhyIo
+ll ttoHfeon il 
+s  layM.eyml te
+rrdiah aedm rga
+tfad ayws i euf
+m.heaoethrr  co
+ytpowolm e c nM
+hn,pps snaeeai 
+ttce ee-ondmhh 
+dwtinesse rr te
+crp r  usahehii
+nhn tm aewo dhu
+fhdrsisn  ofit 
+soelfsrtm iae m
+hbss  tewafnio 
+s eme rwtel,hni
+faticto e snfiu
+otyb   mlablras
+n iiowlh,et tne
+la eshlo oHwm,o
+emf eyo ertrdvh
+ft sotwyii e co
+hh s lBehohoiw 
+im n lr,oeeuasm
+nord o unla eii
+irags kBiednn g
+tdreebiu,e  rtS
+m ongsl hd io a
+oeas,dl atbnk o
+aeminr o wrftgn
+ wbo ke eteetwk
+nd conaeanei ce
+m tit,h oe nbia
+otosisf e dswnr
+ hdrua n,th dge
+fyeerernege ic 
+fe hiwkn e o so
+naetu  Hewn.ar 
+se ilaes,vs tl 
+ atee talrrydp,
+eu  bhse tctdyt
+ n,f m eradiocy
+o hcudi isdecp 
+miunsalc tifeem
+ dandtorerexa s
+afsy e rooiwrpn
+bnneri oai tsvo
+o ologu it nlwf
+on,e e slatusch
+ctueagp i dnlr 
+s i meersshteyo
+i eh  ebanwdchh
+aosdo  aehadnnb
+lohss etb pye e
+i.iiaocl efpclf
+rttm eo i  motF
+em I rsdeoia hm
+vtogucuc neaae 
+f:nhiogi s d so
+fsmhiuom n s so
+otiOdan s  s et
+  tasfh  ehocee
+e,dofuer rTmpfr
+fnahilre i c so
+un  ohse igtpf 
+lodr gyer gaatu
+t se iontnfkhA 
+oi heaTtsrb trr
+ofnal dae n,mec
+amhly eto ifl n
+sehoni cwhihi s
+ahl amipcs odch
+ lao itceeelsdd
+ausd cseufycns 
+yi fohre elt rl
+ifyg i laogmnfn
+onela yBdo .lnH
+tonesisg  dshe 
+h,is itvcyftia 
+ohhev iwrc ,weh
+ eher aslr ymeI
+w tthlh aedli  
+a terfh  erodse
+i ,y s srIdelpa
+e   lloetfktwin
+ nror ifeemrfmy
+annd piaoodmnc 
+O  e hitit.gnn 
+sntonew tewh  a
+e,rh Mcafht toi
+8t 8—ars e w8I1
+nj ngoamf uri r
+rt ey pataoon u
+nd  ( hIoairtfe
+ote rrdnt  uwen
+cccvirta iopil 
+,y whmwynae  e)
+eho mhur g tdel
+a eerrteS. tk B
+ e  petdshAsIas
+eebl-eemer mlrw
+dmcorhhi  dwo, 
+tabalse a uy ws
+oynia  iemsdcts
+iwmd hy i  tnwm
+ihwg,di atonn o
+hdn d ciri keat
+tu  ohSe tetsfn
+  en rtlc,daiSy
+wids z eewIias 
+ re k sdeitnaeh
+tsl sHmoeee oe 
+g  inntd o aa,a
+os  hhwewak won
+m hlogi is npye
+tpraonyad eirrx
+emrs.so Hooir w
+wnlreiilbasre  
+yedlia,n, t  tl
+ndoaslkoIev   e
+p h Iwi ss a, u
+lg , rfepitalsa
+e ipatcwseu  sr
+ oi d lsrhikaan
+ttse itng uatae
+ aeli  Hdwh.bne
+poecit hgrs an 
+ g wiye,taolsfm
+l h, hi isetywr
+a p s ounnhkdue
+shnch das ht ei
+ eaancslspi hds
+bTmhih.id d en 
+m n,  ekhwooew 
+s oev omrdhy ei
+d hha,i isat bn
+tadtua nema idt
+erh t etlindron
+w   syH.oe rnto
+sa atrakwgwo  a
+.erHedi hsia  n
+orst h ifdn uo 
+-adredr teuecag
+  hndso wtmaa s
+o e tsncetu nhp
+ o omepw ronsef
+ehg. a n tbrmIl
+b wllda asene  
+oe n ttophs wuh
+h imbwchrh  aec
+deyfor lmbhe ra
+ omn ty a eripn
+. nHiaen rwm sn
+svunofsf iwe ta
+ amt d oewelIs.
+ gaut swh seb ;
+dtk Ii,nt lh, a
+s ie  tWeho.em 
+rsrlywdoa h d a
+khwn,ti btpue o
+  yin eel, ykda
+   avmtedoh wee
+ h,rmi rhtaaacn
+w hacsi osrs re
+s,a oirg sccefa
+n t iceadd idna
+sasirceat a pi 
+ in ggees n aad
+tTre n.eo nrhc 
+nedheo osbht  e
+rar tfeie f eho
+ veoo  meondlkd
+ uin  nsigesihr
+rieinscprtlo ta
+   asn .i vofhe
+
+
+------UNSHREDDED DOCUMENT------
+
+ Hellocro ShTko
+alha isees sm w
+n.eIwom s thya 
+m  eeldshave oh
+tiin memrd hano
+anu dernher   y
+ I  amenthero.n
+e ycs seis ehhe
+prsdand ipsel e
+e ths teminaohw
+sef.her le oo x
+ taa nosIt w th
+nyfelt e he ta 
+ tn aki otiomno
+enf r Ioove lre
+em.tAll dlerA o
+ha  nd aons,itt
+laalticrne pour
+orre abe, weyhr
+ol ,is ht toncd
+t ide bsprec ua
+anle bayirabmlc
+wad, He. mind s
+ tke iteI ta ,h
+ct rerfpmost e 
+d ibg anasoneno
+hine magerviscn
+or dhe tthat wl
+bus en,ehas   t
+helwveros a a  
+laheve auld opc
+n s lf e himdia
+io .osipalseftn
+poeeer vHe n sk
+teh  soeof t fr
+avo s, nassipse
+ aadgib ith wen
+hee r. ea sn Ty
+bla mirdere wae
+ths for hingt e
+cevlr eebseroxl
+wiog drrnt fean
+rov il ethe  fm
+es aotimen’smv 
+ Bttonsid acn.u
+aitee thfor  rn
+tosanero read  
+ntsuch umit dir
+hi  ntoiionss s
+e enicalwn dota
+juety al findds
+enm erapd teemt
+odocint as twru
+tiigtras a decn
+chom whrfact i 
+a torowhght i d
+l pin aobt uulh
+suttl ra mensel
+a ie int. Grs s
+trvm inesitinsu
+raok a rnt, ecc
+hin  ofein o  s
+wei h-pgwn hoor
+ldsn wo,enselu 
+di toremt beo s
+ agstha rbinun 
+on imoterongti 
+suahuret a nn c
+d ie. Asas h ny
+ brt wae thetsu
+towhmanoone    
+t no thdm, aiaw
+ lat thsan wmea
+ern  Ade Ireel,
+anb ousif duo d
+e ienabouestqlm
+ s e haIory.mde
+ Htle ol litnfo
+ Ma elytes lm.y
+d are hgarrimad
+ay fs auftediw 
+hea.h ocom ertr
+plwt conMy o me
+, pnnesi hapesa
+ce tomeh thed-n
+tsnwereted irs 
+p rrse iich hua
+n the mhund oaw
+dssh fit firon 
+erfomas mselit 
+st bwn o hisfea
+ere t, nishmlwe
+tocaentiuffis  
+y  tll asorbbma
+ilo , wnentithe
+ lsa wh,olmeHoo
+foemeryvhed t r
+ wotietcof s yi
+ B hholw hisheo
+ r moulsmiane,e
+r  on oiinedaul
+aksrin  gingdBe
+ried, btStre ue
+olg his amon  d
+al,eand ooksb t
+m ne frgnatirow
+be weekwk toe t
+ aodaincen ceen
+tht on,iambi  e
+ofitessnrowsd  
+d uh, age drhnt
+errye ec fieeng
+ kie owsof h ne
+e uae. r natnHw
+ ele, al stissv
+ttealy p, derar
+ sbu thyted cet
+,  nrimcy ofdea
+hiu iedp occd s
+ulsi faemmenict
+aoddext s anerr
+s  fowepnaryiro
+n rnativobse oi
+ouo ingwfoll  t
+,  nluechosetsa
+upatingr cled  
+iem steyose hrs
+ee  ad hhichwbn
+s ooed nbandaah
+hesoby  elespt 
+ica. polficifle
+to timetFrom   
+ s mearhme Iido
+ouut ace vagecn
+ngi: dosof h is
+mois susof h mn
+indtssaeto O   
+ths  ofee cah e
+def, mufrepoTrr
+arin clsof h ei
+ son thf up gei
+dy oragtularge 
+so  tkiA thefnn
+ Teis arrothbtr
+ndlfe, ecomana 
+heymof  nallit 
+h newhi ssioich
+liahcomchad  ps
+at lelidd soece
+ss uuccs andyef
+ roi thrly flee
+y  famifningglo
+eyand. nHoll Bo
+nsso sie thedg 
+it ,ctia hisfvy
+hivhr, ehowe wc
+harely eI me sr
+thh all  witd e
+thr  ofseader e
+,   respailydsI
+ ol ttlinew kef
+rirner my fomfe
+ni nompc anddao
+ i  ighn One.tt
+twnnthe as ow e
+rc ,f Moiethtah
+ r—t waI1888 se
+ agjfro rninum 
+ pytto  urneoaa
+ h(dor fent iIa
+edrtturenow  n 
+ctic prl civoai
+ whyn me), weya
+oumh theled  rg
+etr Str Bake e.
+ tpesseas I Adh
+be-eemerwell mr
+chrm wh, doodi 
+belaayswst au  
+n ayed tsocisim
+my withwmind   
+wi,hand oingo t
+ncddrk athe  ii
+ Sou thfnts eet
+et  carSy indl,
+d  ieizs wasIew
+eskren eh a tdi
+lmsse He to eoe
+ tn  an,agai do
+ whsw honow kea
+hio ingyempl  s
+ryopdinrxtraea 
+ro.mHis werso o
+lienbri  wersla
+d,ie, atly ltn 
+oksdI l en avoe
+hiI saw up,   s
+ f gparsall,tei
+ica s tsre puwe
+ildork an a ish
+st tgaiaetteun 
+e iad. ne blhHw
+e iog tn pacshr
+ eigtlyfm swo,a
+hi  ithwrly,e s
+pos nk uead hun
+ndhhst eis cha 
+asnes cds hailp
+m.iTd hn behdi 
+ne  ho w me,okw
+oov ry eis ehmd
+hia it,bnd ha s
+d uae adttitanm
+hetrld oner nti
+ Hs orytown  .e
+ atawor as awkg
+rieehad n. Hi s
+s  rf ho outnid
+dreatedag-cru e
+hod was s anm t
+ent e shpon uct
+ pmo neef soowr
+g  h raIlem.bnt
+wal and  bele s
+ t ep tuhownsoh
+icb r wecham hh
+y oemerrad fhlb
+my oartpn ine  
+nei  masn. Hwnr
+usov eftas nwfi
+m  aelds. Iteow
+astghe  ; busw 
+k,Itthi ad, ln 
+it  e. m seeoWh
+rdysa w ardlho 
+wi,hbut okenp t
+yen ly da ki e,
+ tv d mee waheo
+, mhhaicn arart
+hic ossrew ar s
+aro, cifase cgs
+tei dicnand  ad
+serat ci spiaa 
+negis gad a ne 
+r. Tornc thene 
+d eesto en hhob
+retae fhore fi 
+e oved kd lonmo
+in uis hr inesg
+ecnirostar ilpt
+  s ionhe fav. 

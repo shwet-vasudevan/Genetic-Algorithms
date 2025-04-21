@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.9
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+32146563251632
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.9
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   32146563251632
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.3669298615188               781.3503644183768
+789.6092389989516               776.8881767485657
+786.0059199026222               773.2062699368117
+782.2042745273664               762.8382342287083
+778.4017662565225               760.9633626123667
+773.4112694188256               760.9633626123667
+769.5551706682006               753.01995836056
+766.3606805001976               750.5335416699313
+763.9494090241434               750.5335416699313
+759.4012360929721               750.5335416699313
+755.8495204133178               750.5335416699313
+753.4588092662464               750.5335416699313
+752.4514065893865               750.5335416699313
+751.5050537453931               750.5335416699313
+750.5953849209077               750.5335416699313
+750.5584058368394               750.5335416699313
+750.5459737533862               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+750.5335416699331               750.5335416699313
+
+0 4 14 7 5 1 9 6 3 8 12 13 11 2 10 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+rtThe Maians se
+haem to ve calc
+ tulatedheir de
+wiscent th amaz
+bting sulety—th
+their maematica
+nil learng is e
+lyvident far in
+s  excesof ours
+o —and thave ca
+ourried t their
+ra prepations w
+weith a ll-nigh
+ct perfe unanim
+adity. H our in
+ntstrumes permi
+t,tted i we mig
+e ht havseen th
+ere gathing tro
+aruble f back i
+nin the neteent
+urh centy. Men 
+chlike Siaparel
+chli wated the 
+anred plet—it i
+ bs odd,y-the-b
+atye, th for co
+s untlescenturi
+s es Marhas bee
+stn the ar of w
+ far—butailed t
+rpo interet the
+ua fluctting ap
+cepearans of th
+ine markgs they
+d  mappeso well
+th. All at time
+ar the Mtians m
+veust ha been g
+ rettingeady. D
+thuring e oppos
+ofition  eighte
+eten niny four 
+t a grealight w
+n as seeon the 
+naillumited par
+het of t disk, 
+atfirst  the Li
+erck Obsvatory,
+by then  Perrot
+Niin of ce, and
+by then  other 
+erobservs. Engl
+adish reers hea
+itrd of  first 
+ iin thessue of
+e  Naturdated A
+2.ugust  I am i
+d nclineto thin
+ tk thathis bla
+ hze mayave bee
+can the sting o
+huf the ge gun,
+e  in thvast pi
+ it sunknto the
+neir plat, from
+ t whichheir sh
+reots we fired 
+ Pat us.eculiar
+ng markis, as y
+xpet unelained,
+se were en near
+it the se of th
+brat outeak dur
+e ing thnext tw
+sio oppotions. 
+orThe stm burst
+us upon  six ye
+o ars agnow. As
+ap Mars proache
+sid oppotion, L
+ oavellef Java 
+e set thwires o
+asf the tronomi
+chcal exange pa
+inlpitatg with 
+azthe aming int
+ncelligee of a 
+uthuge obreak o
+ndf incaescent 
+ongas up the pl
+Itanet.  had oc
+ tcurredowards 
+htmidnig of the
+th twelf; and t
+cthe speroscope
+hi, to wch he h
+onad at ce reso
+inrted, dicated
+s  a masof flam
+s,ing ga chiefl
+ogy hydren, mov
+thing wi an eno
+vermous locity 
+s towardthis ea
+hirth. Ts jet o
+ hf firead beco
+isme invible ab
+quout a arter p
+elast twve. He 
+edcompar it to 
+ssa coloal puff
+am of fle sudde
+d nly anviolent
+irly squted out
+e  of thplanet,
+la “as fming ga
+shses rued out 
+unof a g.” A si
+lyngular approp
+phriate rase it
+d. prove Yet th
+ de nextay ther
+noe was thing o
+ if thisn the p
+exapers cept a 
+ nlittleote in 
+ilthe Day Teleg
+anraph, d the w
+enorld wt in ig
+e norancof one 
+ gof theravest 
+s dangerthat ev
+eaer thrtened t
+anhe hum race. 
+t I mighnot hav
+d e hearof the 
+onerupti at all
+ n had Iot met 
+, Ogilvythe wel
+n l-knowastrono
+t mer, aOttersh
+ waw. Heas imme
+exnsely cited a
+net the ws, and
+e  in thexcess 
+ fof hiseelings
+ed invit me up 
+e to taka turn 
+imwith h that n
+n ight ia scrut
+ tiny ofhe red 
+. planetIn spit
+lle of a that h
+peas hapned sin
+stce, I ill rem
+thember at vigi
+ dl veryistinct
+e ly: thblack a
+ennd silt obser
+, vatorythe sha
+ladowed ntern t
+g hrowina feebl
+ ue glowpon the
+ i floorn the c
+ torner,he stea
+kidy ticng of t
+ckhe clowork of
+el the tescope,
+it the ltle sli
+het in t roof—a
+ngn oblo profun
+itdity wh the s
+t tardusstreake
+ssd acro it. Og
+ovilvy med abou
+ist, invible bu
+blt audie. Look
+roing thugh the
+co telespe, one
+ c saw aircle o
+ bf deeplue and
+it the ltle rou
+nend plat swimm
+ ting inhe fiel
+sed. It emed su
+itch a ltle thi
+ bng, soright a
+llnd sma and st
+aiill, fntly ma
+itrked wh trans
+stverse ripes, 
+igand slhtly fl
+d attenefrom th
+ece perft round
+so. But  little
+s, it wa so sil
+arvery wm—a pin
+d ’s heaof ligh
+wat! It s as if
+iv it quered, b
+llut reay this 
+e was thtelesco
+rape vibting wi
+ ath thectivity
+e  of thclockwo
+t rk thakept th
+ete plan in vie
+I w. As watched
+pl, the anet se
+o emed tgrow la
+ndrger a smalle
+tor and  advanc
+ree and cede, b
+t ut thawas sim
+atply th my eye
+ir was ted.  

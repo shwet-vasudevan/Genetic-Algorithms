@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.1
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+756165131
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.1
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   756165131
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.361247481162                775.407835067113
+790.3902501567335               775.022441600066
+785.8277226154357               769.3571910858734
+782.274573731326                765.7373940902615
+779.1812874048264               763.3075258144771
+776.9654978585734               760.0055249317154
+775.0462320105268               760.0055249317154
+772.7955456874668               757.0684580442479
+770.1696551375352               757.0684580442479
+767.9492341453619               756.903346017702
+766.74404498293         756.6687426781795
+766.5450048294472               748.1957773444192
+762.3858450827508               748.1957773444192
+758.0488526028795               748.1957773444192
+755.1494415817871               748.1957773444192
+753.8282241017066               748.1957773444192
+752.9409541029326               748.1957773444192
+752.2673266120833               748.1957773444192
+752.0628546923436               748.1957773444192
+751.4804677053046               748.1957773444192
+751.5910059212348               748.1957773444192
+751.720857693361                748.1957773444192
+750.4803098982604               748.1957773444192
+751.0596187097041               748.1957773444192
+750.6016746537479               748.1957773444192
+750.2259293163693               748.1957773444192
+750.743677146805                748.1957773444192
+751.3498685019481               748.1957773444192
+752.1529970426574               748.1957773444192
+750.9077116210465               748.1957773444192
+750.8652197487763               748.1957773444192
+750.7885213293522               748.1957773444192
+750.5236812830573               748.1957773444192
+750.1808731284941               748.1957773444192
+749.6729220510267               748.1957773444192
+750.286864457489                748.1957773444192
+750.2258981079608               748.1957773444192
+750.875106816546                748.1957773444192
+750.8101969755907               748.1957773444192
+751.4733643885172               748.1957773444192
+751.5437824432695               748.1957773444192
+751.5156411142885               748.1957773444192
+751.0766582403434               748.1957773444192
+750.9115166033697               748.1957773444192
+750.3057492274806               748.1957773444192
+750.5970906193995               748.1957773444192
+750.5852428064836               748.1957773444192
+750.7973109429649               748.1957773444192
+751.535139126938                748.1957773444192
+751.1657266715864               748.1957773444192
+751.2323344090427               748.1957773444192
+750.5436830543613               748.1957773444192
+750.657038820089                748.1957773444192
+750.4773398984163               748.1957773444192
+750.9522424166685               748.1957773444192
+750.609691471234                748.1957773444192
+751.4107749634072               748.1957773444192
+751.6241794361531               748.1957773444192
+751.9092535423787               748.1957773444192
+751.6956686510424               748.1957773444192
+750.9129249865126               748.1957773444192
+750.6374698123088               748.1957773444192
+750.6499776474083               748.1957773444192
+750.824470542758                748.1957773444192
+751.1707067565299               748.1957773444192
+750.9207727708798               748.1957773444192
+750.6304194632922               748.1957773444192
+751.2483196961009               748.1957773444192
+751.4863266094854               748.1957773444192
+751.6717032116685               748.1957773444192
+751.0646230931657               748.1957773444192
+750.632233709762                748.1957773444192
+750.9475420884014               748.1957773444192
+750.9206578214771               748.1957773444192
+751.1030067870946               748.1957773444192
+751.152016098271                748.1957773444192
+750.9549659142691               748.1957773444192
+751.0899705570622               748.1957773444192
+750.2842744179546               748.1957773444192
+750.7973400902225               748.1957773444192
+750.9863612666305               748.1957773444192
+751.0641830818062               748.1957773444192
+751.3992219681171               748.1957773444192
+751.6280698805505               748.1957773444192
+751.5907594090692               748.1957773444192
+751.4941380673225               748.1957773444192
+751.3506540043302               748.1957773444192
+751.1735677639854               748.1957773444192
+750.5837262621316               748.1957773444192
+750.3535639595061               748.1957773444192
+750.6306982206484               748.1957773444192
+751.0689154859485               748.1957773444192
+751.5672534788338               748.1957773444192
+751.817913378426                748.1957773444192
+752.1298147421085               748.1957773444192
+753.0864850093952               748.1957773444192
+752.5550339766617               748.1957773444192
+752.3329461880887               748.1957773444192
+751.370780289568                748.1957773444192
+750.9747918088776               748.1957773444192
+751.231635681075                748.1957773444192
+751.5858780538921               748.1957773444192
+751.5167925957262               748.1957773444192
+751.162267684567                748.1957773444192
+751.1537130470698               748.1957773444192
+751.1367116593271               748.1957773444192
+751.1260142338723               748.1957773444192
+751.7222230802954               748.1957773444192
+752.6378365705776               748.1957773444192
+752.4438790799775               748.1957773444192
+751.4283028475577               748.1957773444192
+751.5494475522819               748.1957773444192
+750.9399375393094               748.1957773444192
+750.6917725271785               748.1957773444192
+750.4758699770173               748.1957773444192
+751.4958345928337               748.1957773444192
+751.6943284017578               748.1957773444192
+750.7440696533398               748.1957773444192
+751.6936533038888               748.1957773444192
+751.0885955514286               748.1957773444192
+751.7493646476277               748.1957773444192
+751.1250811232625               748.1957773444192
+751.1858780763088               748.1957773444192
+751.5667605169524               748.1957773444192
+750.9778918516006               748.1957773444192
+750.9411909736888               748.1957773444192
+750.9869967407811               748.1957773444192
+750.9018881913885               748.1957773444192
+750.866919340075                748.1957773444192
+751.0297058854333               748.1957773444192
+751.0805505898782               748.1957773444192
+750.9903881807685               748.1957773444192
+751.2759983377389               748.1957773444192
+751.3009333013074               748.1957773444192
+751.5978799796292               748.1957773444192
+751.7541323891955               748.1957773444192
+751.3980272186045               748.1957773444192
+751.1033529116702               748.1957773444192
+751.5373672089049               748.1957773444192
+752.0359735110678               748.1957773444192
+751.394456642357                748.1957773444192
+751.0780422740942               748.1957773444192
+750.7656766489042               748.1957773444192
+751.7231583539349               748.1957773444192
+750.3855467965345               748.1957773444192
+750.2887633421996               748.1957773444192
+750.5227445001043               748.1957773444192
+750.5945515221111               748.1957773444192
+750.4410707923694               748.1957773444192
+749.8134614305825               748.1957773444192
+750.946715801417                748.1957773444192
+750.4472643714241               748.1957773444192
+750.8711915690631               748.1957773444192
+750.1728835606872               748.1957773444192
+750.5364976577262               748.1957773444192
+750.8692691167776               748.1957773444192
+749.9943157391316               748.1957773444192
+750.9192959814977               748.1957773444192
+751.3960729512038               748.1957773444192
+750.5695669883187               748.1957773444192
+751.2209182749933               748.1957773444192
+750.9688993797228               748.1957773444192
+751.4579993209779               748.1957773444192
+751.6107789991572               748.1957773444192
+751.2235910038264               748.1957773444192
+750.7598255248896               748.1957773444192
+750.6214877438953               748.1957773444192
+750.374060073812                748.1957773444192
+750.133482582678                748.1957773444192
+750.5032521708972               748.1957773444192
+750.8763494632041               748.1957773444192
+751.4925340092922               748.1957773444192
+750.8601759166434               748.1957773444192
+750.8648353146938               748.1957773444192
+750.7326763110267               748.1957773444192
+750.6953598734623               748.1957773444192
+751.0141699889365               748.1957773444192
+751.2044261941439               748.1957773444192
+751.3275103111191               748.1957773444192
+751.5071191473173               748.1957773444192
+751.2696180161978               748.1957773444192
+751.2854696010327               748.1957773444192
+751.659670870338                748.1957773444192
+751.6048566149437               748.1957773444192
+751.2470865882126               748.1957773444192
+751.195322326845                748.1957773444192
+751.4885822670373               748.1957773444192
+750.8486411345929               748.1957773444192
+751.5922806166659               748.1957773444192
+751.0951460135625               748.1957773444192
+751.0342551149498               748.1957773444192
+751.0742078036812               748.1957773444192
+750.8928256796279               748.1957773444192
+750.9314876560785               748.1957773444192
+750.7167345952108               748.1957773444192
+751.434056460269                748.1957773444192
+750.9625024761087               748.1957773444192
+751.7288740262038               748.1957773444192
+751.2962322999318               748.1957773444192
+751.8032296648686               748.1957773444192
+
+8 12 13 11 2 10 7 14 5 1 9 6 0 4 3 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+ans sehTe Marti
+e calcme to hav
+eir deluated th
+h amazcsent wit
+ety—thnig subtl
+maticaier mathe
+g is e llearnin
+far inivdently 
+f ourse xcess o
+ave caa—nd to h
+ theirrried out
+ions wp reparat
+l-nightih a wel
+unanimp erfect 
+our intiy. Had 
+ permitsruments
+we migtted it, 
+een thth have s
+ng tro egatheri
+back ibule far 
+eteent nthe nin
+. Men  hcentury
+aparelilke Schi
+d the il watche
+t—it ierd plane
+-the-b sodd, by
+for coey, that 
+enturinutless c
+as beese Mars h
+r of w nthe sta
+iled tra—but fa
+et the ointerpr
+ing apf luctuat
+ of theparances
+s they emarking
+o wellm apped s
+t time .All tha
+ians mt he Mart
+been gsut have 
+ady. Dteting re
+ opposruing the
+eightetiion of 
+ four ne ninety
+ight w agreat l
+n the sa seen o
+ed parliluminat
+disk,  tof the 
+the Liifrst at 
+atory,kc Observ
+Perrott hen by 
+e, andni of Nic
+other t hen by 
+. Englboservers
+rs heasih reade
+first dr of it 
+sue ofni the is
+ated AN ature d
+I am iguust 2. 
+o thincnlined t
+is bla kthat th
+ve beeez may ha
+ting o nthe cas
+e gun, fthe hug
+ast pii n the v
+to the tsunk in
+, fromri planet
+eir shw hich th
+fired tos were 
+culiarta us. Pe
+, as ym arkings
+ained,te unexpl
+n nearw ere see
+ of tht he site
+ak durta outbre
+ext twnig the n
+ions.  oopposit
+ bursthTe storm
+six yeu pon us 
+ow. Asras ago n
+roacheM ars app
+ion, L dopposit
+ Java vaelle of
+ires oest the w
+ronomi fthe ast
+nge paacl excha
+ with plitating
+ng inthte amazi
+ of a leligence
+reak ouhge outb
+scent  fincande
+the plags upon 
+had ocnaet. It 
+wards ucrred to
+of theimdnight 
+ and tt welfth;
+oscopeeh spectr
+h he h ,to whic
+e resoda at onc
+icatedtred, ind
+f flama  mass o
+chieflnig gas, 
+n, mov yhydroge
+an enonig with 
+ocity mrous vel
+his eaotwards t
+ jet otrh. This
+d beco ffire ha
+ble abem invisi
+rter puot a qua
+e. He sat twelv
+it to ocmpared 
+l puff acolossa
+ suddeo f flame
+iolentlny and v
+ed outyl squirt
+lanet,o f the p
+ing ga“ as flam
+d out ess rushe
+” A sifo a gun.
+appropgnularly 
+ase itirate phr
+Yet thp roved. 
+y ther enext da
+hing o ewas not
+ the p fthis in
+ept a paers exc
+te in ilttle no
+ Teleghte Daily
+ the warph, and
+ in igrold went
+f one onrance o
+avest fo the gr
+hat evadngers t
+ened tre threat
+race. eh human 
+ot hav Imight n
+f the  eheard o
+at allreuption 
+t met h ad I no
+he welgOilvy, t
+strono-lknown a
+ttershemr, at O
+s immewa. He wa
+ited asnely exc
+s, and tthe new
+xcess i n the e
+elingsfo his fe
+me up i nvited 
+ turn ot take a
+that niwth him 
+ scrutgiht in a
+e red niy of th
+n spitlpanet. I
+that h eof all 
+ed sinsa happen
+ll remec, I sti
+t vigimeber tha
+stinct lvery di
+lack ayl: the b
+ obserdn silent
+he shaavtory, t
+tern todwed lan
+ feeblrhowing a
+on the eglow up
+ the cf loor in
+e stearoner, th
+g of tyd tickin
+ork ofeh clockw
+scope,t he tele
+le slit he litt
+roof—a tin the 
+profun noblong 
+ the sidty with
+treakeatrdust s
+it. Og dacross 
+d aboulivy move
+ble bu,t invisi
+. Look taudible
+gh thenig throu
+e, onet elescop
+rcle os aw a ci
+ue and fdeep bl
+le rout he litt
+ swimmdn planet
+e fielnig in th
+med su.d It see
+le thihc a litt
+ight agn, so br
+and stdn small 
+tly malil, fain
+ transkred with
+ipes, evrse str
+tly flnad sligh
+rom thtatened f
+ round eperfect
+little .But so 
+so sili t was, 
+—a pinevry warm
+f lighs’ head o
+ as if!t It was
+red, bi t quive
+ this tu really
+elescoaws the t
+ing wiep vibrat
+tivityht the ac
+lockwoo f the c
+ept thkr that k
+in vie eplanet 
+atched.w As I w
+net se ,the pla
+row lameed to g
+smallegrer and 
+advanc rand to 
+ede, b eand rec
+as simtu that w
+my eyelpy that 
+d.    w as tire

@@ -1,0 +1,739 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.9
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+32146563251632
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.9
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   32146563251632
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+922.4090894819693               907.4063492367819
+919.4173115694146               904.4413636822991
+918.0782950099889               895.6058510480402
+914.7977770419457               888.0379255874958
+910.3571472771857               886.4333617966158
+907.1459736723565               886.4333617966158
+905.4989105064808               884.5098497692522
+903.2272536222981               884.5098497692522
+897.3431417983699               884.5098497692522
+893.0202002890321               884.5098497692522
+889.53514128438         884.5098497692522
+886.3924349831548               884.5098497692522
+884.7307540672717               884.5098497692522
+884.656951165462                884.5098497692522
+884.5194673293855               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+884.5098497692487               884.5098497692522
+
+14 0 12 8 11 5 1 7 2 6 9 10 3 4 13 
+
+------SHREDDED DOCUMENT------
+
+ l hecHkloToSro
+saashsl  wmi ee
+ Inhem.aw yot s
+aeme d oeh lvsh
+dnthiein oam mr
+e a urn dy ernh
+h  r eI.anoment
+sceeys hseh  ei
+pdpesdr aelns i
+iheatt hswo nem
+e.sofre hxoe  l
+ta waott h n sI
+hen f yal ttee 
+t  onitnaomki o
+v e fInrrel eoo
+lter.lm AoAle d
+n h,  atntidsao
+ellpacautroi rn
+ eoerbrh ryawe,
+ ,oo  lcidnstht
+rdtcib uea  esp
+reablanl cmbayi
+m,wndea  sdHi. 
+ e aktt, h iteI
+orct ftee  rspm
+sbdnia ngoe ona
+rehinaic nsmvge
+hdot  rwhl eatt
+a b s,u et nseh
+ wh lre v aeaos
+lel h apvcoedau
+h nms  iladfie 
+l.ie iotonfsspa
+eepne osek r vH
+f tthoef r s eo
+s aio vssep,sna
+td  abaegnwih i
+  hne eTry .sea
+r b arlamewiede
+i tgsrh feton h
+slcrveexrlo eeb
+tgwforia ned rn
+h r v ofim leet
+naes isvo mt’me
+ t ctsB.ounnaid
+oea ttiren  rhf
+ratasro n deeo 
+iun s ticrdhtum
+o hs oi nsstnii
+nnedea tiaoc lw
+ftjneaudysd il 
+  eemanmetertpd
+scototdriuwn  a
+agtdiaictner s 
+amctohhi   wcrf
+hoa tw  rdiothg
+tilupa lnhu  ob
+mtsntruells ea 
+ earin   ssiGt.
+imtivnrs unites
+tkr o ac cea,rn
+n honfi  s o ei
+n whipeohro- gw
+nnlesodu  lws,e
+ tde ei osorbmt
+bs ngaant uhi r
+oiog tnim toner
+ahsnaeu ucnr t 
+sedhiA n.y   sa
+tt erabs utwhe 
+nht wno m  aeoo
+,otanh a wit dm
+nt wahle amt sa
+I eendrl ,eAre 
+  aubsn odoudif
+eeetib lnmqasou
+re . asd emhyIo
+ll ttoHfeon il 
+s  layM.eyml te
+rrdiah aedm rga
+tfad ayws i euf
+m.heaoethrr  co
+ytpowolm e c nM
+hn,pps snaeeai 
+ttce ee-ondmhh 
+dwtinesse rr te
+crp r  usahehii
+nhn tm aewo dhu
+fhdrsisn  ofit 
+soelfsrtm iae m
+hbss  tewafnio 
+s eme rwtel,hni
+faticto e snfiu
+otyb   mlablras
+n iiowlh,et tne
+la eshlo oHwm,o
+emf eyo ertrdvh
+ft sotwyii e co
+hh s lBehohoiw 
+im n lr,oeeuasm
+nord o unla eii
+irags kBiednn g
+tdreebiu,e  rtS
+m ongsl hd io a
+oeas,dl atbnk o
+aeminr o wrftgn
+ wbo ke eteetwk
+nd conaeanei ce
+m tit,h oe nbia
+otosisf e dswnr
+ hdrua n,th dge
+fyeerernege ic 
+fe hiwkn e o so
+naetu  Hewn.ar 
+se ilaes,vs tl 
+ atee talrrydp,
+eu  bhse tctdyt
+ n,f m eradiocy
+o hcudi isdecp 
+miunsalc tifeem
+ dandtorerexa s
+afsy e rooiwrpn
+bnneri oai tsvo
+o ologu it nlwf
+on,e e slatusch
+ctueagp i dnlr 
+s i meersshteyo
+i eh  ebanwdchh
+aosdo  aehadnnb
+lohss etb pye e
+i.iiaocl efpclf
+rttm eo i  motF
+em I rsdeoia hm
+vtogucuc neaae 
+f:nhiogi s d so
+fsmhiuom n s so
+otiOdan s  s et
+  tasfh  ehocee
+e,dofuer rTmpfr
+fnahilre i c so
+un  ohse igtpf 
+lodr gyer gaatu
+t se iontnfkhA 
+oi heaTtsrb trr
+ofnal dae n,mec
+amhly eto ifl n
+sehoni cwhihi s
+ahl amipcs odch
+ lao itceeelsdd
+ausd cseufycns 
+yi fohre elt rl
+ifyg i laogmnfn
+onela yBdo .lnH
+tonesisg  dshe 
+h,is itvcyftia 
+ohhev iwrc ,weh
+ eher aslr ymeI
+w tthlh aedli  
+a terfh  erodse
+i ,y s srIdelpa
+e   lloetfktwin
+ nror ifeemrfmy
+annd piaoodmnc 
+O  e hitit.gnn 
+sntonew tewh  a
+e,rh Mcafht toi
+8t 8—ars e w8I1
+nj ngoamf uri r
+rt ey pataoon u
+nd  ( hIoairtfe
+ote rrdnt  uwen
+cccvirta iopil 
+,y whmwynae  e)
+eho mhur g tdel
+a eerrteS. tk B
+ e  petdshAsIas
+eebl-eemer mlrw
+dmcorhhi  dwo, 
+tabalse a uy ws
+oynia  iemsdcts
+iwmd hy i  tnwm
+ihwg,di atonn o
+hdn d ciri keat
+tu  ohSe tetsfn
+  en rtlc,daiSy
+wids z eewIias 
+ re k sdeitnaeh
+tsl sHmoeee oe 
+g  inntd o aa,a
+os  hhwewak won
+m hlogi is npye
+tpraonyad eirrx
+emrs.so Hooir w
+wnlreiilbasre  
+yedlia,n, t  tl
+ndoaslkoIev   e
+p h Iwi ss a, u
+lg , rfepitalsa
+e ipatcwseu  sr
+ oi d lsrhikaan
+ttse itng uatae
+ aeli  Hdwh.bne
+poecit hgrs an 
+ g wiye,taolsfm
+l h, hi isetywr
+a p s ounnhkdue
+shnch das ht ei
+ eaancslspi hds
+bTmhih.id d en 
+m n,  ekhwooew 
+s oev omrdhy ei
+d hha,i isat bn
+tadtua nema idt
+erh t etlindron
+w   syH.oe rnto
+sa atrakwgwo  a
+.erHedi hsia  n
+orst h ifdn uo 
+-adredr teuecag
+  hndso wtmaa s
+o e tsncetu nhp
+ o omepw ronsef
+ehg. a n tbrmIl
+b wllda asene  
+oe n ttophs wuh
+h imbwchrh  aec
+deyfor lmbhe ra
+ omn ty a eripn
+. nHiaen rwm sn
+svunofsf iwe ta
+ amt d oewelIs.
+ gaut swh seb ;
+dtk Ii,nt lh, a
+s ie  tWeho.em 
+rsrlywdoa h d a
+khwn,ti btpue o
+  yin eel, ykda
+   avmtedoh wee
+ h,rmi rhtaaacn
+w hacsi osrs re
+s,a oirg sccefa
+n t iceadd idna
+sasirceat a pi 
+ in ggees n aad
+tTre n.eo nrhc 
+nedheo osbht  e
+rar tfeie f eho
+ veoo  meondlkd
+ uin  nsigesihr
+rieinscprtlo ta
+   asn .i vofhe
+
+
+------UNSHREDDED DOCUMENT------
+
+o Sloclk HoTher
+es  isa alwmshe
+s twomIan. yhe 
+haveldeom h e s
+rd  menntioahim
+herder  any  un
+theame . Inor n
+is s sche eheye
+ipsandd preles 
+mins thhe woate
+le her. sexoof 
+It  noat th was
+ helt eany t fe
+otiaki n tomon 
+over I renel fo
+dleAllt emoAr. 
+onsnd  thati, a
+ne ticlularopar
+, w abehorryere
+t tis ,coldno h
+pree bdut a cis
+ira baelancmbly
+ mi He, wasdnd.
+I t ite, th ake
+moserfrect  t p
+asog abnd oenin
+erv maechinsing
+thahe dworl t t
+hasen,  but  se
+s averw he a lo
+uldve eplaco ha
+ hilf  in admse
+alsosi.tionfe p
+He er espok nev
+of  so fter the
+asss,  savepion
+ithgibde anw a 
+a sr.  They nee
+eremir ablew ad
+hinfor  thetgs 
+bser elxcelorve
+nt  drgawinefor
+theil  from  ve
+en’otiaves ms m
+d aonst. Buncti
+fore terain  th
+ renera to daso
+mitch uintrd su
+ionnto  hisss i
+wn icante aodel
+ fiy atdjusdnel
+d tera menteemp
+as intcroduwto 
+ a tragctinedis
+fac whmich  tor
+ghtrowo a di th
+bt n aill huupo
+ mel rtesulsnta
+. G ine a ssrit
+sit inmstrunive
+nt, a kcrace or
+in  of  his one
+wn h-p owerohig
+ens wonuld les,
+t boret disoe m
+rbithasn a ung 
+ronmotiion tg e
+ a ureh sucnnat
+as . Aend y his
+ th wats butere
+onemanh to   wo
+m,  thoat wiand
+an  thte lamwas
+ Ir Ad ler,eene
+f dous  andoubi
+uesnabele mqtio
+ory haed sem. I
+ lie olf Honttl
+es ely . Mymlat
+arre hrad dmiag
+ftes afway id u
+om h o.therreac
+My  cotmple own
+ hanesns, aeppi
+ thomet-cende h
+ed erewsts rint
+ichse rup ah ri
+unde mhan wo th
+ fi fihnds orst
+msemasoter ilf 
+ hiwn bestafs o
+isht,  werelmen
+uffenta to sici
+sorll tmy abb a
+ent, w hiletion
+olm whao loHes,
+hederym fort ev
+of ietty wi soc
+ hiholhe Bohs w
+miaoulm, reen s
+inen oour lad i
+ginin rBakedgs 
+Str, bdurie eet
+amohis  old ng 
+ookande altbs, 
+nat freom wring
+k teekw beteo w
+en ainde anecoc
+ambon,  the iti
+rowesst of dsin
+e d, ahnd thrug
+ fie eynergeerc
+of  owen ke his
+ nae. aHe wntur
+ st, aes evsill
+, dly aattrreep
+ted thue stc by
+y orimne, adf c
+ ocied  hisdcup
+mme faicultinse
+s aextdraorend 
+narowefrs oiy p
+obsatinon i erv
+foling  out low
+hosluens, ate c
+ clingt up dear
+oseste riesh my
+hicad  beenwh h
+baned oas hadon
+eleby othe pss 
+fic po.licefial
+Froimet to  m t
+me earmd soiI h
+ va actcounegue
+of  do:ings his
+of  susmmon his
+to ssat in  Ode
+e c of  thehase
+rep mu,rderToff
+of  clneari his
+ up thne sig of
+ularagoedy gr t
+ thtki nsonfe A
+rots ait Trbher
+come, fand nale
+nalof mthe ily 
+ssiwhiech hion 
+hadcomhplis  ac
+d selilcateeo d
+ anuccuessfyd s
+ly  thie relfor
+ninamifly ogg f
+Hold. nBeyo lan
+ th siogns dese
+ hicti,vityfs a
+howr, hwhic eve
+I mly eshar ere
+ wiall  thedth 
+ead of  therers
+ailres s, Idy p
+newttl e ofk li
+y fer nfriemorm
+ anompnaniodd c
+ Onigh t it.e n
+as then twewon 
+ietf M,archth o
+188 wats re 8—I
+rnifrojm a ung 
+urnto ta paoey 
+entor dI hai (f
+nowturtned   re
+ ci prcactiovil
+), n myy waewhe
+led thhroug  me
+BakStr eet. er 
+s Isseed thA pa
+welemeember l-r
+ do whmich dor,
+st aysa be ualw
+soced yin msiat
+minithw my  d w
+oinandh witog, 
+therk dinci  da
+nts thue Ste of
+y icar let,dn S
+ waeizied wIs s
+h aen rdesit ke
+ toe Hsolmee se
+aga an d to in,
+noww hse wak ho
+emping  his loy
+xtrdinpary eaor
+werHism rooos. 
+ webrinlliasre 
+ly , aend, tlit
+en I ldookevas 
+up,saw  his  I 
+allparge fit, s
+re s t wiceupas
+n ark osilhi da
+ettgaitnst ue a
+e bd. aHe whlin
+ pag tohe rscin
+m stlyg, eaowif
+rlyith  hise, w
+eadnk  uponh su
+is st hand hche
+s hs celaspiand
+ bed hTim. dhin
+ meho  knewo, w
+is ry  moodheve
+nd it,  hisahab
+ttie aand matud
+nerld rthein to
+ownory . He  st
+as worak agwat 
+n. hade risiHe 
+ ouf hris dnt o
+g-cteda dreurea
+s awas  hotmnd 
+pone s centu th
+f s neow proome
+lem rahng tb. I
+ beand  wasell 
+howp teo thsn u
+char w hich mbe
+ad merely bhfor
+n iarto my en p
+n.  ma nnerwHis
+as  efvfusiwnot
+. Ieldaom wet s
+; bhe gwas sut 
+ad,thitnk, l I 
+ see.  Withoe m
+arda wsord hly 
+okebuth witpn, 
+a kly  eye, ind
+e wd m e tohave
+n ahaihr, tarmc
+ew oss  hisracr
+ase ci,garsc of
+anddic ated  in
+ spt caase airi
+d as giene n ga
+ thornTer. ne c
+en stoeod bhhe 
+oree faire f th
+d led vme onook
+r iis usingen h
+ar rosipectlint
+e fion .   vash

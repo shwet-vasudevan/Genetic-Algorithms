@@ -1,0 +1,739 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.9
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+32146563251632
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.9
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   32146563251632
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+922.5689284911963               910.4760807003748
+918.3487968016973               902.4323982687096
+914.5413422015912               900.5456231062019
+910.1971660970831               891.4696536264183
+905.9023568730523               889.470671952267
+903.1102349819815               887.0437680696973
+899.0783463776356               882.8140812924138
+896.5295506439047               882.8140812924138
+892.6439366909846               882.8140812924138
+890.2494125638697               882.8140812924138
+887.5283771929277               882.8140812924138
+885.2194989655866               882.8140812924138
+883.900136748549                882.8140812924138
+883.487214709536                882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+882.8140812924146               882.8140812924138
+
+14 0 12 6 9 1 11 5 7 2 10 3 4 13 8 
+
+------SHREDDED DOCUMENT------
+
+ l hecHkloToSro
+saashsl  wmi ee
+ Inhem.aw yot s
+aeme d oeh lvsh
+dnthiein oam mr
+e a urn dy ernh
+h  r eI.anoment
+sceeys hseh  ei
+pdpesdr aelns i
+iheatt hswo nem
+e.sofre hxoe  l
+ta waott h n sI
+hen f yal ttee 
+t  onitnaomki o
+v e fInrrel eoo
+lter.lm AoAle d
+n h,  atntidsao
+ellpacautroi rn
+ eoerbrh ryawe,
+ ,oo  lcidnstht
+rdtcib uea  esp
+reablanl cmbayi
+m,wndea  sdHi. 
+ e aktt, h iteI
+orct ftee  rspm
+sbdnia ngoe ona
+rehinaic nsmvge
+hdot  rwhl eatt
+a b s,u et nseh
+ wh lre v aeaos
+lel h apvcoedau
+h nms  iladfie 
+l.ie iotonfsspa
+eepne osek r vH
+f tthoef r s eo
+s aio vssep,sna
+td  abaegnwih i
+  hne eTry .sea
+r b arlamewiede
+i tgsrh feton h
+slcrveexrlo eeb
+tgwforia ned rn
+h r v ofim leet
+naes isvo mt’me
+ t ctsB.ounnaid
+oea ttiren  rhf
+ratasro n deeo 
+iun s ticrdhtum
+o hs oi nsstnii
+nnedea tiaoc lw
+ftjneaudysd il 
+  eemanmetertpd
+scototdriuwn  a
+agtdiaictner s 
+amctohhi   wcrf
+hoa tw  rdiothg
+tilupa lnhu  ob
+mtsntruells ea 
+ earin   ssiGt.
+imtivnrs unites
+tkr o ac cea,rn
+n honfi  s o ei
+n whipeohro- gw
+nnlesodu  lws,e
+ tde ei osorbmt
+bs ngaant uhi r
+oiog tnim toner
+ahsnaeu ucnr t 
+sedhiA n.y   sa
+tt erabs utwhe 
+nht wno m  aeoo
+,otanh a wit dm
+nt wahle amt sa
+I eendrl ,eAre 
+  aubsn odoudif
+eeetib lnmqasou
+re . asd emhyIo
+ll ttoHfeon il 
+s  layM.eyml te
+rrdiah aedm rga
+tfad ayws i euf
+m.heaoethrr  co
+ytpowolm e c nM
+hn,pps snaeeai 
+ttce ee-ondmhh 
+dwtinesse rr te
+crp r  usahehii
+nhn tm aewo dhu
+fhdrsisn  ofit 
+soelfsrtm iae m
+hbss  tewafnio 
+s eme rwtel,hni
+faticto e snfiu
+otyb   mlablras
+n iiowlh,et tne
+la eshlo oHwm,o
+emf eyo ertrdvh
+ft sotwyii e co
+hh s lBehohoiw 
+im n lr,oeeuasm
+nord o unla eii
+irags kBiednn g
+tdreebiu,e  rtS
+m ongsl hd io a
+oeas,dl atbnk o
+aeminr o wrftgn
+ wbo ke eteetwk
+nd conaeanei ce
+m tit,h oe nbia
+otosisf e dswnr
+ hdrua n,th dge
+fyeerernege ic 
+fe hiwkn e o so
+naetu  Hewn.ar 
+se ilaes,vs tl 
+ atee talrrydp,
+eu  bhse tctdyt
+ n,f m eradiocy
+o hcudi isdecp 
+miunsalc tifeem
+ dandtorerexa s
+afsy e rooiwrpn
+bnneri oai tsvo
+o ologu it nlwf
+on,e e slatusch
+ctueagp i dnlr 
+s i meersshteyo
+i eh  ebanwdchh
+aosdo  aehadnnb
+lohss etb pye e
+i.iiaocl efpclf
+rttm eo i  motF
+em I rsdeoia hm
+vtogucuc neaae 
+f:nhiogi s d so
+fsmhiuom n s so
+otiOdan s  s et
+  tasfh  ehocee
+e,dofuer rTmpfr
+fnahilre i c so
+un  ohse igtpf 
+lodr gyer gaatu
+t se iontnfkhA 
+oi heaTtsrb trr
+ofnal dae n,mec
+amhly eto ifl n
+sehoni cwhihi s
+ahl amipcs odch
+ lao itceeelsdd
+ausd cseufycns 
+yi fohre elt rl
+ifyg i laogmnfn
+onela yBdo .lnH
+tonesisg  dshe 
+h,is itvcyftia 
+ohhev iwrc ,weh
+ eher aslr ymeI
+w tthlh aedli  
+a terfh  erodse
+i ,y s srIdelpa
+e   lloetfktwin
+ nror ifeemrfmy
+annd piaoodmnc 
+O  e hitit.gnn 
+sntonew tewh  a
+e,rh Mcafht toi
+8t 8—ars e w8I1
+nj ngoamf uri r
+rt ey pataoon u
+nd  ( hIoairtfe
+ote rrdnt  uwen
+cccvirta iopil 
+,y whmwynae  e)
+eho mhur g tdel
+a eerrteS. tk B
+ e  petdshAsIas
+eebl-eemer mlrw
+dmcorhhi  dwo, 
+tabalse a uy ws
+oynia  iemsdcts
+iwmd hy i  tnwm
+ihwg,di atonn o
+hdn d ciri keat
+tu  ohSe tetsfn
+  en rtlc,daiSy
+wids z eewIias 
+ re k sdeitnaeh
+tsl sHmoeee oe 
+g  inntd o aa,a
+os  hhwewak won
+m hlogi is npye
+tpraonyad eirrx
+emrs.so Hooir w
+wnlreiilbasre  
+yedlia,n, t  tl
+ndoaslkoIev   e
+p h Iwi ss a, u
+lg , rfepitalsa
+e ipatcwseu  sr
+ oi d lsrhikaan
+ttse itng uatae
+ aeli  Hdwh.bne
+poecit hgrs an 
+ g wiye,taolsfm
+l h, hi isetywr
+a p s ounnhkdue
+shnch das ht ei
+ eaancslspi hds
+bTmhih.id d en 
+m n,  ekhwooew 
+s oev omrdhy ei
+d hha,i isat bn
+tadtua nema idt
+erh t etlindron
+w   syH.oe rnto
+sa atrakwgwo  a
+.erHedi hsia  n
+orst h ifdn uo 
+-adredr teuecag
+  hndso wtmaa s
+o e tsncetu nhp
+ o omepw ronsef
+ehg. a n tbrmIl
+b wllda asene  
+oe n ttophs wuh
+h imbwchrh  aec
+deyfor lmbhe ra
+ omn ty a eripn
+. nHiaen rwm sn
+svunofsf iwe ta
+ amt d oewelIs.
+ gaut swh seb ;
+dtk Ii,nt lh, a
+s ie  tWeho.em 
+rsrlywdoa h d a
+khwn,ti btpue o
+  yin eel, ykda
+   avmtedoh wee
+ h,rmi rhtaaacn
+w hacsi osrs re
+s,a oirg sccefa
+n t iceadd idna
+sasirceat a pi 
+ in ggees n aad
+tTre n.eo nrhc 
+nedheo osbht  e
+rar tfeie f eho
+ veoo  meondlkd
+ uin  nsigesihr
+rieinscprtlo ta
+   asn .i vofhe
+
+
+------UNSHREDDED DOCUMENT------
+
+o SHolock Therl
+es lwais amshe 
+s t. Iomanyhe w
+hav heldom e se
+rd ionmentahim 
+herny er a  und
+theIn me. or na
+is  ec sheheyes
+ipsrednd ples a
+min wh theoates
+le ex.er soof h
+It thanot  was 
+ hey et ant fel
+otito kin mon a
+ovene  Irel for
+dlemotll eAr. A
+onsat d thi, an
+ne arliculopart
+, wrreabhoyere 
+t tld,s cono hi
+pre ad but cise
+irancebalambly 
+ mias,He wdnd. 
+I ttheit,  ake 
+most rrfec t pe
+aso ob andening
+ervinemachsing 
+tharlde wo t th
+hasut n, b  see
+s ae wer ha lov
+uldacee plo hav
+ hi a f indmsel
+alson.sitife po
+He oker sp neve
+of er soft the 
+assve , sapions
+ithandibe w a g
+a sey . Th neer
+erele irabw adm
+hinhe or ttgs f
+bseell excorver
+nt ingdrawefor 
+theom l fr  vei
+en’s ativems mo
+d aButns. nctio
+forine tra  the
+ reo aer tdason
+mittruh ind suc
+ionis to hss in
+wn  ancateodeli
+ fiust adjdnely
+d tnt rameeempe
+as ducntrowto i
+ a ingractedist
+fach mwhic tor 
+ght doow ai thr
+bt  hi alluupon
+ meult ressntal
+. G sein asrit 
+sitruminstnive 
+nt,acka cre or 
+in is of h one 
+wn er -powohigh
+ensd nwoulles, 
+t bistre doe mo
+rbia shan ung t
+ronn iotiotg em
+ a uchre snnatu
+as  ye And his.
+ thbutwas tere 
+oneo han t  wom
+m,  wothatiand 
+an latthe mwas 
+ Irr, Adleeene 
+f dnd us aoubio
+ues meableqtion
+oryseehad m. I 
+ liHol of nttle
+es My ly. mlate
+arr dr hadmiage
+ftey f awaid us
+om er. othreach
+My letcomp own 
+ ha aness,eppin
+ thentme-cde ho
+ed s wrestrinte
+ich are uph ris
+und wh mano the
+ fis hfindorst 
+mser oasteilf m
+ hitabn esfs ow
+ishre , welment
+uffo ant tsicie
+sor atl mybb al
+entle  whition,
+olmloawho Hes, 
+hedormry ft eve
+of witety  soci
+ hiBohole hs wh
+miaremul, en so
+ine lo ourad in
+ginkern Badgs i
+Stried bur eet,
+amold is o ng h
+ookltend abs, a
+nat wefromring 
+k tetwek beo we
+en andine ecoca
+ambhe n, t itio
+rowf tss odsine
+e d th andhrug,
+ firgy eneeerce
+of keeown  his 
+ na wa. Henture
+ steve as sill,
+, dtray atreepl
+tedstuthe c by 
+y o anime,df cr
+ ocis ed hdcupi
+mmeltifacuinse 
+s aordxtraend e
+nar ofwersiy po
+obs intion erva
+folut ng o lowi
+hos anues,te cl
+ clp tng udeari
+osees terih mys
+hicen d bewh ha
+ban hod asadone
+elee oy thpss b
+ficce.polifial 
+Froo tme t m ti
+me somard iI he
+ vauntaccoegue 
+of gs:doin his 
+of onssumm his 
+to n tsa i Odes
+e che of thase 
+reper,murdToff 
+of rinclea his 
+ upsinthe g of 
+ulay oagedgr tr
+ thon kinsfe At
+rotTri at bhers
+comd f, annalee
+nale mf thily o
+ssi hehichion w
+hadishompl  acc
+d stellicaeo de
+ ansfuccesyd su
+ly reithe lfor 
+nin ofmilygg fa
+Holyon. Be land
+ ths osigndese 
+ hity,tivifs ac
+howich, wh ever
+I marey sh erel
+ wihe ll tdth a
+eadhe of trers 
+ail I ess,dy pr
+newof tle k lit
+y fienr frmorme
+ anionmpandd co
+ Onit ght .e ni
+as wenhe twon t
+ietch, Marth of
+188retwas  8—I 
+rnia jrom ung f
+urnpato a oey t
+enthadr I i (fo
+nowd turne  ret
+ citicpracovil 
+), way my ewhen
+ledughthro  me 
+Bakt. tree er S
+s Ithesed A pas
+welerememb l-re
+ doh mwhicdor, 
+st e ays bualwa
+soc myd insiate
+miny wth m d wi
+oinithnd wog, a
+thecidk in  dar
+ntsStuthe e of 
+y it, arledn Sc
+ wa wiizedIs se
+h asirn det kee
+ tomes Hole see
+agato and  in, 
+nowwas he k how
+empis ng h loyi
+xtry pinareaord
+weroomis ros. H
+ weianrillsre b
+ly , e andtlit,
+en ked loovas I
+up,is aw h  I s
+allfigare t, sp
+re ce  twiupass
+n alhok sii dar
+ettt tainsue ag
+e b wa. Hehlind
+ pa ro thescing
+m seagly, owift
+rlyis th he, wi
+eadon k uph sun
+is d ht anhches
+s hspe claiands
+ be. T himdhind
+ meew o kno, wh
+is od y mohever
+nd is t, hahabi
+tti ma andatude
+nereird thn tol
+ownHe ry.   sto
+as agaork wat w
+n. isead riHe h
+ ou dr hisnt of
+g-creaed dureat
+s aot as hmnd w
+ponnt  sceu the
+f spronew oome 
+lem thrangb. I 
+ beas nd well a
+howthe to sn up
+chach  whi mber
+ad  beerlyhform
+n iy ort men pa
+n. er mannwHis 
+as siveffuwnot 
+. I waldomet se
+; bs ge wasut h
+ad,, thinkl I t
+ seth . Wioe me
+ardd s worhly a
+okeithut wpn, b
+a ke, y ey indl
+e wto  me haved
+n a thair,armch
+ew is ss hracro
+asers,cigac of 
+anded icat  ind
+ spe a casairit
+d ae i genn gas
+ th. Trnerne co
+en  betoodhhe s
+oree a firf the
+d l ovd menooke
+r ingus sien hi
+ar ctiospelintr
+e f   on. vashi

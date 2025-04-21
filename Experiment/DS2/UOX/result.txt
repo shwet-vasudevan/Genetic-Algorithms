@@ -1,0 +1,739 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+98165196516
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   98165196516
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+922.3176765226985               906.3434358933876
+919.1893153576874               900.3655679545341
+917.0620565394831               901.2724711913135
+916.143991029551                899.6563915475999
+916.1168019508118               889.4230412044626
+913.4962257856611               889.1003410474102
+911.3963145832415               890.563627373317
+907.3303137628673               890.563627373317
+904.4866224292059               888.472788047915
+902.2330784158029               888.472788047915
+903.5653226431903               888.472788047915
+899.7444914915875               886.0786908758224
+897.3518661914792               886.0786908758224
+894.6398443057311               886.0786908758224
+891.7018440436118               883.807066069491
+890.1785397489907               883.807066069491
+893.4290155459619               883.807066069491
+892.4364572619354               881.4707339879698
+889.1569636552427               881.4707339879698
+887.9247149564997               881.4707339879698
+886.1074661910201               881.4707339879698
+884.0822175634955               881.4707339879698
+882.7719461865084               881.4707339879698
+882.2683619879214               881.4707339879698
+882.0180788419224               881.4707339879698
+881.8206470781569               881.4707339879698
+881.7717748234033               881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+881.470733987972                881.4707339879698
+
+11 5 9 1 10 7 2 6 14 0 12 3 4 13 8 
+
+------SHREDDED DOCUMENT------
+
+ l hecHkloToSro
+saashsl  wmi ee
+ Inhem.aw yot s
+aeme d oeh lvsh
+dnthiein oam mr
+e a urn dy ernh
+h  r eI.anoment
+sceeys hseh  ei
+pdpesdr aelns i
+iheatt hswo nem
+e.sofre hxoe  l
+ta waott h n sI
+hen f yal ttee 
+t  onitnaomki o
+v e fInrrel eoo
+lter.lm AoAle d
+n h,  atntidsao
+ellpacautroi rn
+ eoerbrh ryawe,
+ ,oo  lcidnstht
+rdtcib uea  esp
+reablanl cmbayi
+m,wndea  sdHi. 
+ e aktt, h iteI
+orct ftee  rspm
+sbdnia ngoe ona
+rehinaic nsmvge
+hdot  rwhl eatt
+a b s,u et nseh
+ wh lre v aeaos
+lel h apvcoedau
+h nms  iladfie 
+l.ie iotonfsspa
+eepne osek r vH
+f tthoef r s eo
+s aio vssep,sna
+td  abaegnwih i
+  hne eTry .sea
+r b arlamewiede
+i tgsrh feton h
+slcrveexrlo eeb
+tgwforia ned rn
+h r v ofim leet
+naes isvo mt’me
+ t ctsB.ounnaid
+oea ttiren  rhf
+ratasro n deeo 
+iun s ticrdhtum
+o hs oi nsstnii
+nnedea tiaoc lw
+ftjneaudysd il 
+  eemanmetertpd
+scototdriuwn  a
+agtdiaictner s 
+amctohhi   wcrf
+hoa tw  rdiothg
+tilupa lnhu  ob
+mtsntruells ea 
+ earin   ssiGt.
+imtivnrs unites
+tkr o ac cea,rn
+n honfi  s o ei
+n whipeohro- gw
+nnlesodu  lws,e
+ tde ei osorbmt
+bs ngaant uhi r
+oiog tnim toner
+ahsnaeu ucnr t 
+sedhiA n.y   sa
+tt erabs utwhe 
+nht wno m  aeoo
+,otanh a wit dm
+nt wahle amt sa
+I eendrl ,eAre 
+  aubsn odoudif
+eeetib lnmqasou
+re . asd emhyIo
+ll ttoHfeon il 
+s  layM.eyml te
+rrdiah aedm rga
+tfad ayws i euf
+m.heaoethrr  co
+ytpowolm e c nM
+hn,pps snaeeai 
+ttce ee-ondmhh 
+dwtinesse rr te
+crp r  usahehii
+nhn tm aewo dhu
+fhdrsisn  ofit 
+soelfsrtm iae m
+hbss  tewafnio 
+s eme rwtel,hni
+faticto e snfiu
+otyb   mlablras
+n iiowlh,et tne
+la eshlo oHwm,o
+emf eyo ertrdvh
+ft sotwyii e co
+hh s lBehohoiw 
+im n lr,oeeuasm
+nord o unla eii
+irags kBiednn g
+tdreebiu,e  rtS
+m ongsl hd io a
+oeas,dl atbnk o
+aeminr o wrftgn
+ wbo ke eteetwk
+nd conaeanei ce
+m tit,h oe nbia
+otosisf e dswnr
+ hdrua n,th dge
+fyeerernege ic 
+fe hiwkn e o so
+naetu  Hewn.ar 
+se ilaes,vs tl 
+ atee talrrydp,
+eu  bhse tctdyt
+ n,f m eradiocy
+o hcudi isdecp 
+miunsalc tifeem
+ dandtorerexa s
+afsy e rooiwrpn
+bnneri oai tsvo
+o ologu it nlwf
+on,e e slatusch
+ctueagp i dnlr 
+s i meersshteyo
+i eh  ebanwdchh
+aosdo  aehadnnb
+lohss etb pye e
+i.iiaocl efpclf
+rttm eo i  motF
+em I rsdeoia hm
+vtogucuc neaae 
+f:nhiogi s d so
+fsmhiuom n s so
+otiOdan s  s et
+  tasfh  ehocee
+e,dofuer rTmpfr
+fnahilre i c so
+un  ohse igtpf 
+lodr gyer gaatu
+t se iontnfkhA 
+oi heaTtsrb trr
+ofnal dae n,mec
+amhly eto ifl n
+sehoni cwhihi s
+ahl amipcs odch
+ lao itceeelsdd
+ausd cseufycns 
+yi fohre elt rl
+ifyg i laogmnfn
+onela yBdo .lnH
+tonesisg  dshe 
+h,is itvcyftia 
+ohhev iwrc ,weh
+ eher aslr ymeI
+w tthlh aedli  
+a terfh  erodse
+i ,y s srIdelpa
+e   lloetfktwin
+ nror ifeemrfmy
+annd piaoodmnc 
+O  e hitit.gnn 
+sntonew tewh  a
+e,rh Mcafht toi
+8t 8—ars e w8I1
+nj ngoamf uri r
+rt ey pataoon u
+nd  ( hIoairtfe
+ote rrdnt  uwen
+cccvirta iopil 
+,y whmwynae  e)
+eho mhur g tdel
+a eerrteS. tk B
+ e  petdshAsIas
+eebl-eemer mlrw
+dmcorhhi  dwo, 
+tabalse a uy ws
+oynia  iemsdcts
+iwmd hy i  tnwm
+ihwg,di atonn o
+hdn d ciri keat
+tu  ohSe tetsfn
+  en rtlc,daiSy
+wids z eewIias 
+ re k sdeitnaeh
+tsl sHmoeee oe 
+g  inntd o aa,a
+os  hhwewak won
+m hlogi is npye
+tpraonyad eirrx
+emrs.so Hooir w
+wnlreiilbasre  
+yedlia,n, t  tl
+ndoaslkoIev   e
+p h Iwi ss a, u
+lg , rfepitalsa
+e ipatcwseu  sr
+ oi d lsrhikaan
+ttse itng uatae
+ aeli  Hdwh.bne
+poecit hgrs an 
+ g wiye,taolsfm
+l h, hi isetywr
+a p s ounnhkdue
+shnch das ht ei
+ eaancslspi hds
+bTmhih.id d en 
+m n,  ekhwooew 
+s oev omrdhy ei
+d hha,i isat bn
+tadtua nema idt
+erh t etlindron
+w   syH.oe rnto
+sa atrakwgwo  a
+.erHedi hsia  n
+orst h ifdn uo 
+-adredr teuecag
+  hndso wtmaa s
+o e tsncetu nhp
+ o omepw ronsef
+ehg. a n tbrmIl
+b wllda asene  
+oe n ttophs wuh
+h imbwchrh  aec
+deyfor lmbhe ra
+ omn ty a eripn
+. nHiaen rwm sn
+svunofsf iwe ta
+ amt d oewelIs.
+ gaut swh seb ;
+dtk Ii,nt lh, a
+s ie  tWeho.em 
+rsrlywdoa h d a
+khwn,ti btpue o
+  yin eel, ykda
+   avmtedoh wee
+ h,rmi rhtaaacn
+w hacsi osrs re
+s,a oirg sccefa
+n t iceadd idna
+sasirceat a pi 
+ in ggees n aad
+tTre n.eo nrhc 
+nedheo osbht  e
+rar tfeie f eho
+ veoo  meondlkd
+ uin  nsigesihr
+rieinscprtlo ta
+   asn .i vofhe
+
+
+------UNSHREDDED DOCUMENT------
+
+ocolTk Ho Sherl
+iswam ales she 
+om Iyan.s the w
+ldhe om have se
+meonantird him 
+ery   anher und
+men o. Ither na
+ sechhe is eyes
+ndedl pripses a
+ twhohe minates
+erx.o sele of h
+noha t tIt was 
+t  etany he fel
+kio mn totion a
+ Ie lrenove for
+llotA emdler. A
+d t ithaons, an
+icrloulane part
+abreyhor, were 
+s d,ncolt to hi
+ bad ut precise
+bacemlanirably 
+Hes,d wa mind. 
+ithe , tI take 
+rf r ectmost pe
+ aobend asoning
+maneschierving 
+e ld worthat th
+n,t   buhas see
+er wa hes a lov
+e ceoplauld hav
+f a din  himsel
+sin.ftioalse po
+r ke spoHe neve
+sor  fteof the 
+, e psavassions
+ibndwe aith a g
+. y  Thea sneer
+ire wablere adm
+ore t thhings f
+ elloxcebserver
+drngeawint for 
+l m  frothe vei
+ti amvesen’s mo
+nsutn. Bd actio
+ tne raifor the
+er ad to reason
+h rudintmit suc
+tos s hiions in
+caanote wn deli
+ astddju finely
+rat emend tempe
+ntucwrodas to i
+rangecti a dist
+wh m ichfactor 
+owdoi a ght thr
+ ahiull bt upon
+ rltsesu mental
+inses a . Grit 
+inumnstrsitive 
+a ckecrant, or 
+ofs   hiin one 
+-pr oowewn high
+wo nluldenses, 
+resto dit be mo
+ha sun arbing t
+ot itionrong em
+rechn su a natu
+ Aye nd as his.
+wautts b there 
+an h  toone wom
+thwoiat m, and 
+thatme lan was 
+Ad, eler Irene 
+usd o anf dubio
+abmeqle uestion
+haeemd sory. I 
+ oolnf H little
+lyy m. Mes late
+ hdrmad arriage
+ a fiwayfted us
+ or.rtheom each
+coet mplMy own 
+esanes,  happin
+mentd-ce the ho
+re wrstsed inte
+e arhup ich ris
+ mwhoan und the
+fi honds first 
+as oitermself m
+n abfest his ow
+, e lwerishment
+nt as toufficie
+l atbmy sorb al
+ we thilention,
+whoaHo lolmes, 
+ryrmt fohed eve
+etit y wof soci
+olohhe B his wh
+uleme, rmian so
+ oloaur ined in
+n erdBakgings i
+ bed uriStreet,
+isd   olamong h
+ndteb alooks, a
+frwerom nating 
+ektwe bek to we
+inndee aen coca
+n,e   thambitio
+ss td ofrowsine
+ athhnd e drug,
+ egyener fierce
+owee n kof his 
+. wanHe  nature
+ avess e still,
+y raratt, deepl
+thtuce sted by 
+imande, y of cr
+eds d hi occupi
+fatiiculmmense 
+xtrderaos and e
+weofirs nary po
+tiin on observa
+ngt   oufollowi
+ueants, hose cl
+ng td up cleari
+tes hrieose mys
+d n wbeehich ha
+d hoaas bandone
+y  optheeless b
+poe.flicficial 
+me t  toFrom ti
+aromid sme I he
+acntecou vague 
+dos: ingof his 
+suns mmoof his 
+sa t  into Odes
+ofe h the case 
+mur,Trderepoff 
+clin earof his 
+thinge s up of 
+ag ogedyular tr
+kin fnso the At
+ aribt Trothers
+,  fnandcomalee
+f  mithenally o
+hiheich ssion w
+omsh plihad acc
+lielecatd so de
+ccfuyess and su
+theile rly for 
+miofgly ning fa
+. on BeyHolland
+si odgns these 
+tiy,fvit his ac
+, ch whihowever
+y re shaI merel
+lle d th with a
+ofe r theaders 
+esI ds, aily pr
+tlf ke onew lit
+r enmfriy forme
+mpondani and co
+ght .t i One ni
+heenw twas on t
+ Mh,tarcieth of
+waet s r1888—I 
+ro jum arning f
+o atoa purney t
+r adiI hent (fo
+ur t nednow ret
+pricoact civil 
+ mayey w), when
+thgh rouled me 
+tr.  eetBaker S
+seheAd ts I pas
+mere mbewell-re
+wh mdich door, 
+ys au best alwa
+d mysin sociate
+th w  mymind wi
+ndtho wioing, a
+k id incthe dar
+thtuee Snts of 
+ar, dlety in Sc
+izwiIed  was se
+n irtdesh a kee
+ Heseolm to see
+ano  d tagain, 
+ haske wnow how
+ngs   hiemployi
+in pearyxtraord
+isomo rowers. H
+rianslli were b
+ a etnd,ly lit,
+ ledvooken as I
+aws   hiup, I s
+arigte fall, sp
+ te uwicre pass
+k hoisiln a dar
+ai tunstette ag
+. wahHe e blind
+ troshe  pacing
+lyago, em swift
+ths e hirly, wi
+k n hupoead sun
+t  hhandis ches
+ cpeilass hands
+ h Tdim. behind
+o w okne me, wh
+y d hmoois ever
+t,s a hind habi
+ amaand ttitude
+d irnthener tol
+rye  . Hown sto
+orgawk aas at w
+adsei rin. He h
+ hdrnis  out of
+edeau drg-creat
+ast m hos and w
+ st ucenpon the
+neroow pf some 
+rathbng lem. I 
+nds e wa bell a
+ theso thown up
+ wh  hicchamber
+erbehly ad form
+rt oe myn in pa
+mar wnnen. His 
+efivwfusas not 
+ldwaeom . It se
+e  gswas; but h
+hi tlnk,ad, I t
+. h oWit see me
+ w shordardly a
+utthp wioken, b
+y ,  eyea kindl
+ mo he te waved
+aithar, n armch
+sss r hiew acro
+cis,cgarase of 
+icd  ateand ind
+ c aaase spirit
+ g inened a gas
+rn Tner. the co
+tobehod en he s
+ f afireore the
+d ovnme d looke
+s guesinr in hi
+ostilpecar intr
+on  v.  e fashi

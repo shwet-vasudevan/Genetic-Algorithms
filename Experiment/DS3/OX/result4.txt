@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.9
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.1
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+654322165162
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.9
+MUTATION RATE:          0.1
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   654322165162
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+793.8593629852684               781.6134658949449
+789.8921879298927               776.9761816925048
+787.1045542111913               772.9356629948716
+784.8170958156813               765.3051067293131
+783.917408617309                764.9214167473937
+778.1375849763742               762.1375099744552
+775.3209861736722               762.1375099744552
+771.7990297930746               762.1375099744552
+770.9452431340393               762.1375099744552
+767.8170585119674               762.1375099744552
+766.8710611856136               761.3755282004237
+766.5558931372866               761.7071274456335
+766.8833172263121               761.7071274456335
+766.3458978842272               761.7071274456335
+765.7914333943423               761.7071274456335
+765.1151839271812               761.7071274456335
+763.8619955361199               758.3073462675628
+764.5302522968768               758.3073462675628
+764.8931610144995               758.3073462675628
+762.8904564576229               758.3073462675628
+762.9128400826293               758.3073462675628
+761.3898460011358               758.3073462675628
+760.7768126341784               757.572424033423
+762.1798349653525               757.572424033423
+765.2461140926316               756.9484111656011
+763.4608934275312               753.9558997493727
+764.8885927701045               753.8951334934059
+766.2846826025661               752.7871794558672
+762.5227163407039               752.3249646172886
+761.6168338802479               752.3249646172886
+760.1126621864698               752.3249646172886
+758.5342241039848               752.3249646172886
+758.2764070435348               752.3249646172886
+756.1217934134507               752.3249646172886
+756.9164281749519               752.3249646172886
+756.0997619638688               752.3249646172886
+755.8488108469662               752.3249646172886
+755.7405475360064               752.3249646172886
+756.519682980199                752.3249646172886
+755.7209164860167               752.3249646172886
+755.6305091848428               752.3249646172886
+758.2305991461269               752.3249646172886
+763.873719047185                752.3249646172886
+761.9382643893617               752.3249646172886
+757.7142401984094               752.3249646172886
+756.6022448174741               752.3249646172886
+755.7110625022574               752.3249646172886
+755.9721672570776               752.3249646172886
+755.3931228451636               752.3249646172886
+755.0764072701652               752.3249646172886
+758.4366611942526               752.3249646172886
+757.0385361039612               752.3249646172886
+756.0254295315672               752.3249646172886
+760.1525971746065               752.3249646172886
+769.0524247255628               752.3249646172886
+762.3074860475508               752.3249646172886
+758.429469789657                752.3249646172886
+757.2138907974638               752.3249646172886
+758.658185395439                752.3249646172886
+759.0254229652684               752.3249646172886
+760.4961860037927               752.3249646172886
+764.3435238217746               752.3249646172886
+769.9698623081734               752.3249646172886
+765.3247672254785               752.3249646172886
+764.8906498225714               752.3249646172886
+759.6983298357883               752.3249646172886
+756.8051813049451               752.3249646172886
+756.078056458183                752.3249646172886
+755.5684731783388               752.3249646172886
+757.1301074145242               752.3249646172886
+755.84751824813         752.3249646172886
+757.3655270131181               752.3249646172886
+755.8011955497678               752.3249646172886
+760.9585870055023               752.3249646172886
+757.5283565586408               752.3249646172886
+756.2133832184918               752.3249646172886
+757.3901277604672               752.3249646172886
+754.8899050927067               752.3249646172886
+759.429138159055                752.3249646172886
+761.128123717965                752.3249646172886
+765.6346760764377               752.3249646172886
+760.3478584047865               752.3249646172886
+763.9320309548223               752.3249646172886
+759.0932380581934               752.3249646172886
+757.0216907912829               752.3249646172886
+755.0174421459647               752.3249646172886
+755.1036888767848               752.3249646172886
+758.6920747569733               752.3249646172886
+755.085476760144                752.3249646172886
+764.9788042326643               752.3249646172886
+758.6200524015751               752.3249646172886
+757.111744237569                752.3249646172886
+760.0479628286645               752.3249646172886
+761.0840699912261               752.3249646172886
+759.8414093558574               752.3249646172886
+755.7754328633106               752.3249646172886
+767.3481763155364               752.3249646172886
+760.5533928748171               752.3249646172886
+762.1092517775348               752.3249646172886
+758.2743407299189               752.3249646172886
+762.4669243224308               752.3249646172886
+758.18284094462         752.3249646172886
+760.1741173625065               752.3249646172886
+764.8229138649509               752.3249646172886
+760.0642529060192               752.3249646172886
+757.2013515860162               752.3249646172886
+757.474231878979                752.3249646172886
+759.7233817308417               752.3249646172886
+756.2375293484007               752.3249646172886
+755.0617930490214               752.3249646172886
+762.6332895151768               752.3249646172886
+758.942590119559                752.3249646172886
+755.8242015384474               752.3249646172886
+762.4223727182917               752.3249646172886
+759.9648337421233               752.3249646172886
+759.2453619229864               752.3249646172886
+759.4096931370087               752.3249646172886
+768.0996558778506               752.3249646172886
+763.7597442283379               752.3249646172886
+756.6496217560931               752.3249646172886
+755.0043160040316               752.3249646172886
+757.7138025313793               752.3249646172886
+756.2871242640006               752.3249646172886
+759.81409521024         752.3249646172886
+756.2985878664133               752.3249646172886
+756.047627109146                752.3249646172886
+763.9208061527621               752.3249646172886
+761.3864358228997               752.3249646172886
+761.2085180836452               752.3249646172886
+756.9101008410745               752.3249646172886
+755.6350701870442               752.3249646172886
+764.0322957980246               752.3249646172886
+756.9550560858883               752.3249646172886
+754.4742264873547               752.3249646172886
+769.8516127470007               752.3249646172886
+767.4105073130157               752.3249646172886
+770.2593215192512               752.3249646172886
+762.6164830984468               752.3249646172886
+761.4929093026014               752.3249646172886
+757.2441660311089               752.3249646172886
+762.9872213348672               752.3249646172886
+766.8163519914247               752.3249646172886
+761.1979103280283               752.3249646172886
+761.2891900818117               752.3249646172886
+757.320929516716                752.3249646172886
+756.0130811616758               752.3249646172886
+761.6851102743097               752.3249646172886
+760.2288632844169               752.3249646172886
+756.350805965098                752.3249646172886
+764.3751424423758               752.3249646172886
+759.6284857829787               752.3249646172886
+763.8928521183532               752.3249646172886
+758.0335697124538               752.3249646172886
+755.8604004515851               752.3249646172886
+755.862006271772                752.3249646172886
+764.1267328723286               752.3249646172886
+762.2644811322762               752.3249646172886
+759.736558316076                752.3249646172886
+758.0936303671681               752.3249646172886
+762.148523614122                752.3249646172886
+760.0551413321289               752.3249646172886
+762.4187884480582               752.3249646172886
+758.0506454808641               752.3249646172886
+762.365643300665                752.3249646172886
+757.7722545483621               752.3249646172886
+758.1023385538349               752.3249646172886
+758.1005977753766               752.3249646172886
+755.9314806900288               752.3249646172886
+758.6710275820669               752.3249646172886
+759.5659909627892               752.3249646172886
+763.1785264610106               752.3249646172886
+757.7536447234191               752.3249646172886
+755.7358020475581               752.3249646172886
+754.8304522064814               752.3249646172886
+754.7115470034402               752.3249646172886
+755.72341447582         752.3249646172886
+756.3775285784633               752.3249646172886
+755.7947420331932               752.3249646172886
+757.0406849700278               752.3249646172886
+756.1783327507137               752.3249646172886
+756.8002866250482               752.3249646172886
+759.649175244684                752.3249646172886
+754.8148483247948               752.3249646172886
+754.4262812877864               752.3249646172886
+754.4327365804543               752.3249646172886
+754.1409111239628               752.3249646172886
+758.0379312911663               752.3249646172886
+755.9449184340288               752.3249646172886
+757.8258015362239               752.3249646172886
+761.1479457102307               752.3249646172886
+757.0799443682935               752.3249646172886
+755.8817039343729               752.3249646172886
+758.7552744602805               752.3249646172886
+755.9375998364878               752.3249646172886
+754.6326721514065               752.3249646172886
+764.3378057107387               752.3249646172886
+758.2857405448468               752.3249646172886
+757.3928906629459               752.3249646172886
+755.6538128618621               752.3249646172886
+756.7889877712901               752.3249646172886
+
+2 10 5 14 9 6 0 4 3 8 1 7 12 13 11 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+seeTMartia hns 
+lc eo havetm ca
+deaued thetlir 
+azest withnc am
+thgisubtle nty—
+caremathem iati
+ ellarninge  is
+indvntly feiar 
+rsx ess ofce ou
+can— to hadave 
+irird out erthe
+ wr paratiepons
+ghhia well t-ni
+ime fect urpnan
+inyi Had o.tur 
+mirsments utper
+iget it, wdte m
+th have sehten 
+rogetherina g t
+ ilu far beback
+nttne nineh tee
+n chntury.e  Me
+elkl Schiaeipar
+e  latchedwi th
+ idrplanet e—it
+-bosd, by-d the
+co,ythat f eor 
+rituess celnntu
+ee ears haMss b
+ wtne starh  of
+ t—aut faibrled
+heioterpren t t
+apl ctuatiufng 
+thapances reof 
+eymerkingsa  th
+lla ped sopm we
+meA.l thatl  ti
+ mh  Martietans
+ gtuhave b seen
+ Dteng reaitdy.
+osiug the nropp
+teiin of eotigh
+r  einety nnfou
+ wgaeat lir ght
+e  aeen onss th
+arliminateuld p
+, ot the df isk
+Lirft at tsihe 
+y, cbservaOktor
+oth n by Peterr
+nd if Niceon, a
+r h n by oetthe
+glsorvers.eb En
+eahireader ss h
+t  rf it fodirs
+of ihe isstnue 
+ Aa ure datNted
+ iuut 2. Isg am
+inlnned toic th
+latkat thih s b
+ee zay havmee b
+ otne casth ing
+n,tfe hugeh  gu
+pin the va ist 
+hestnk intu o t
+om ilanet,pr fr
+shh ch theiwir 
+d sowere f tire
+ar as. Pecutuli
+ ya kings,rm as
+d, enexplautine
+are e seenrw ne
+thh  site etof 
+ur autbreaotk d
+twgithe ne nxt 
+. oopositip ons
+steTstorm  hbur
+yep n us souix 
+Assaago no rw. 
+hea s apprrMoac
+ Lodpositip on,
+a eale of lvJav
+ otsthe wi eres
+mitfe astrh ono
+palcexchan age 
+h ilating tpwit
+ntetamazin hg i
+a legence ilof 
+ ogh outbreueak
+t ifcandesn cen
+plsgupon t ahe 
+ocea. It htnad 
+s rced towruard
+hedmight onif t
+ tw lfth; etand
+pe hpectrosesco
+ ht, whicho  he
+so at oncead re
+eder, indidtcat
+am  ass ofma fl
+flgigas, c nhie
+ovhydrogeny , m
+nogiwith a nn e
+y ors veloumcit
+eawtrds thaois 
+ ohr This .tjet
+coffre hadi  be
+ab mnvisibiele 
+ ptoa quar uter
+e tatwelve s. H
+o mcared ipot t
+ffcalossalo  pu
+def flame  osud
+ntynand vi lole
+ut lquirtesyd o
+t,f the pl oane
+gaa  flamis“ng 
+t ssrushed e ou
+si o gun.”af A 
+opunarly algppr
+itare phratise 
+thr ved. Yopet 
+ernext daye  th
+ owes notha ing
+ ptfis in h the
+a eas excerppt 
+n tlle nottie i
+egetDaily  hTel
+ wpr, and hathe
+iglo went drin 
+e rnnce ofao on
+t  ohe gratfves
+evnders thgaat 
+ t ehreatetrned
+.  human rheace
+avmIght noi t h
+e heard ofe  th
+lluetion aprt a
+t a  I notdh me
+eliOvy, thlge w
+noklown asn-tro
+shrm at Ot,eter
+me.aHe was w im
+ aeny excilsted
+ndtte newsh , a
+s n the ex ices
+gs ois feehflin
+p n ited mvie u
+n  take a totur
+ ntw him thihat
+uthi in a tgscr
+d yiof the n re
+itapet. Innl sp
+ hoe all tf hat
+in aappenehsd s
+em,cI stil el r
+giber thatem vi
+ctvlry dise tin
+ a:lthe bl yack
+er nilent sdobs
+hatvry, thoae s
+ twdd lanteoern
+blohing a wrfee
+hegeow upol n t
+ cl or in ofthe
+eanor, theer st
+ t dickingty of
+of hlockwocerk 
+e,h  telesetcop
+lih  littlete s
+—ait the rn oof
+unonlong pb rof
+ std with yithe
+kertust stdarea
+Ogadross ic t. 
+ouvi movedyl ab
+bu tnvisibi,le 
+okatdible.u  Lo
+hegithroug nh t
+nee escopelt, o
+ oa  a cirwscle
+nddfep blue e a
+ouh  littlete r
+mm nlanet pdswi
+elgiin the n fi
+su dt seemI.ed 
+hi c littlahe t
+ a,nso bri gght
+st nmall asdnd 
+mali faint,lly 
+nser with dktra
+, rve strisepes
+fldaslight nly 
+thtaned fretom 
+ndperfect e rou
+leB.t so lu itt
+ilt was, s io s
+inrv warm—yea p
+gh ’ead ofhs li
+if tt was I!as 
+ bt quiver ied,
+s  ueally rtthi
+coswthe te ales
+wi pibrativeng 
+ty the actthivi
+wof the cl oock
+th rhat ketkpt 
+iepeanet il n v
+ed ws I waA.tch
+set,e planh et 
+laee to grdmow 
+leer and srgmal
+ncard to an dva
+ baed recen de,
+im uhat watts s
+yeypthat m ly e
+  a  tiredsw.  

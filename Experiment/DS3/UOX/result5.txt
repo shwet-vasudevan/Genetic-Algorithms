@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.8
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.1
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+685431651544
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.8
+MUTATION RATE:          0.1
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   685431651544
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.0271975975385               782.6134631566175
+792.1659124258824               779.6076877696889
+790.1222119500405               776.5089858696653
+788.4994932313115               770.7891298792175
+787.308930294092                771.491165020735
+784.2071375842627               771.491165020735
+781.8741396844332               764.5376495624396
+782.092147312254                764.5376495624396
+779.4234419369452               764.1166986887939
+776.1252459731018               764.1166986887939
+773.9736120583729               762.176443084338
+773.4972314050013               762.176443084338
+776.5493276959096               760.5454467776226
+777.43498219349         760.5454467776226
+773.4329174291788               760.5454467776226
+779.8994370250205               760.5454467776226
+782.8917597529758               760.5454467776226
+779.7341093676977               760.5454467776226
+770.5485662595115               757.4238234756682
+772.7987091603801               757.4238234756682
+771.0184745161725               757.4238234756682
+769.0137310711729               757.4238234756682
+767.2410616533799               757.4238234756682
+767.1906020616966               757.4238234756682
+765.1441420707009               757.4238234756682
+772.212076089463                757.4238234756682
+764.850865820758                757.4238234756682
+760.0308808884421               757.4238234756682
+768.4795914832014               757.4238234756682
+776.3790392958482               757.4238234756682
+778.9893135775877               757.4238234756682
+775.1978017193228               757.4238234756682
+767.3704625839923               757.4238234756682
+763.9664975095575               757.4238234756682
+764.2490323815988               757.4238234756682
+764.6965493780328               749.799536431614
+765.0074686887118               749.799536431614
+763.9244209179058               749.799536431614
+760.389289646471                749.799536431614
+756.684054685835                749.799536431614
+755.8197392544976               749.799536431614
+766.0565003494143               749.799536431614
+766.4327409576681               749.799536431614
+767.0787025467332               749.799536431614
+764.9753577692625               749.799536431614
+764.9937447970676               749.799536431614
+767.3868241183129               749.799536431614
+776.2056239731361               749.799536431614
+774.5230307019705               749.799536431614
+769.9505202563253               749.799536431614
+762.3044467661565               749.799536431614
+774.4406079201966               749.799536431614
+778.0363637573041               749.799536431614
+772.3445362139842               749.799536431614
+764.2164604681838               749.799536431614
+761.3033052761467               749.799536431614
+758.6019241941549               749.799536431614
+761.4181261584657               749.799536431614
+763.3634281371232               749.799536431614
+757.2187894267169               749.799536431614
+766.1317231589062               749.799536431614
+761.7770045220359               749.799536431614
+757.3469508546265               749.799536431614
+760.8572999130826               749.799536431614
+768.408189808421                749.799536431614
+760.5574728852066               749.799536431614
+763.0473182705308               749.799536431614
+770.5568982284113               749.799536431614
+764.7958598135016               749.799536431614
+764.3374057465479               749.799536431614
+761.0326208832668               749.799536431614
+767.9485363229392               749.799536431614
+766.3552526863257               749.799536431614
+763.419478458972                749.799536431614
+774.4204999555722               749.799536431614
+764.2398658864767               749.799536431614
+762.0274203966432               749.799536431614
+761.6884072785601               749.799536431614
+759.2032676162139               749.799536431614
+759.9399304452775               749.799536431614
+756.3322229392423               749.799536431614
+758.0533397104275               749.799536431614
+764.4046614370642               749.799536431614
+762.8600155645631               749.799536431614
+768.5724083408936               749.799536431614
+765.7831774515258               749.799536431614
+762.6581823787194               749.799536431614
+768.7920661797914               749.799536431614
+767.4324922502798               747.0968485288437
+759.8227535907088               747.0968485288437
+760.0646295327706               747.0968485288437
+759.8393746368156               747.0968485288437
+759.1762567909699               747.0968485288437
+758.2048731154897               747.0968485288437
+771.6396721559947               747.0968485288437
+763.6466020006142               747.0968485288437
+761.8396494287306               747.0968485288437
+755.4062844447125               747.0968485288437
+765.3497360181657               747.0968485288437
+764.0418135012779               747.0968485288437
+758.1948910577767               747.0968485288437
+773.715269057034                747.0968485288437
+768.9007226427351               747.0968485288437
+765.6144979255346               747.0968485288437
+761.8108375931249               747.0968485288437
+758.8986456144369               747.0968485288437
+756.0939412076997               747.0968485288437
+759.3570193228995               747.0968485288437
+762.3273024494863               747.0968485288437
+758.7699946998589               747.0968485288437
+753.6171650340241               747.0968485288437
+751.9912172910091               747.0968485288437
+750.398350338753                747.0968485288437
+759.3017888325619               747.0968485288437
+752.171240618463                747.0968485288437
+760.5562658575404               747.0968485288437
+773.0443228256706               747.0968485288437
+765.8032920347825               747.0968485288437
+774.7420906009611               747.0968485288437
+768.8260458912208               747.0968485288437
+767.0941284818724               747.0968485288437
+780.1669212616666               747.0968485288437
+770.0385122050242               747.0968485288437
+762.1555453838091               747.0968485288437
+757.4100171234719               747.0968485288437
+756.2907209602128               747.0968485288437
+753.8230910133931               747.0968485288437
+759.7026783970257               747.0968485288437
+761.7941971083683               747.0968485288437
+756.8316011651888               747.0968485288437
+758.6398358305566               747.0968485288437
+757.7284700633655               747.0968485288437
+756.9981945811576               747.0968485288437
+759.8720047372063               747.0968485288437
+757.467938161826                747.0968485288437
+755.4383340624216               747.0968485288437
+753.5966672889092               747.0968485288437
+752.5620552217839               747.0968485288437
+761.6950992799336               747.0968485288437
+759.5145396234241               747.0968485288437
+754.9082258727976               747.0968485288437
+753.7072537688537               747.0968485288437
+754.0897658059839               747.0968485288437
+755.5100021538776               747.0968485288437
+755.594358369202                747.0968485288437
+763.0924186361672               747.0968485288437
+761.0609547079495               747.0968485288437
+761.160944582002                747.0968485288437
+763.5825255994107               747.0968485288437
+757.1748974791641               747.0968485288437
+767.8150462738992               747.0968485288437
+759.2659479726681               747.0968485288437
+762.1317773310498               747.0968485288437
+756.8604603156409               747.0968485288437
+756.113710330042                747.0968485288437
+756.8079680260171               747.0968485288437
+757.3329818527226               747.0968485288437
+756.4043799275273               747.0968485288437
+765.990495759814                747.0968485288437
+764.2650716368315               747.0968485288437
+756.4936681662585               747.0968485288437
+770.5669181320945               747.0968485288437
+765.5481946706482               747.0968485288437
+761.1643010727837               747.0968485288437
+767.5058946011079               747.0968485288437
+767.004782527278                747.0968485288437
+759.7723611290857               747.0968485288437
+753.785798308426                747.0968485288437
+750.9511611785827               747.0968485288437
+760.8777593363207               747.0968485288437
+767.0100873685894               747.0968485288437
+760.1068850658725               747.0968485288437
+764.7473609911856               747.0968485288437
+770.395964442498                747.0968485288437
+761.8762845160921               747.0968485288437
+761.9066722684546               747.0968485288437
+764.6291955421414               747.0968485288437
+758.767424845331                747.0968485288437
+755.7783619160456               747.0968485288437
+753.9464675206419               747.0968485288437
+756.5304991860149               747.0968485288437
+762.1454091726243               747.0968485288437
+760.1682079401317               747.0968485288437
+758.2441216707764               747.0968485288437
+755.7614218311531               747.0968485288437
+754.0132856360464               747.0968485288437
+751.772682546674                747.0968485288437
+764.0257257659031               747.0968485288437
+775.5719551121481               747.0968485288437
+768.0740953801437               747.0968485288437
+762.9353524181305               747.0968485288437
+756.1046982663106               747.0968485288437
+756.9224882824633               747.0968485288437
+755.9204251773865               747.0968485288437
+759.4364983292359               747.0968485288437
+762.0281730177587               747.0968485288437
+768.8015015715255               747.0968485288437
+765.3938103472797               747.0968485288437
+758.4312046613181               747.0968485288437
+756.5358109176287               747.0968485288437
+
+12 13 4 2 10 14 7 3 1 9 6 0 8 5 11 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+nstseThi Marae 
+ calcemvto he a
+irtdeulhted ea 
+ aiazsctnt whem
+tytthinl subeg—
+athcaeie matmri
+ ii el nearngls
+aryinvi entlfd 
+ o rs eocessfxu
+ve ca—ahd toan 
+thuirrrted o ie
+ona w pteparirs
+-neghitl a wlhi
+natim p rfecuen
+urdinit . Haoy 
+petmistsumen rr
+e ,igtt d itwem
+en thhtshavee  
+g rroe iathengt
+acr iub e fablk
+teintn nhe nete
+ Mrn h yentu.ce
+pahelliie Scakr
+ the liewatcd h
+—in iree platdt
+thb-bs ydd, -oe
+ortcoye  thaf, 
+nt riunclessetu
+s  eeeshMarsa b
+ ot wn ahe srtf
+lef tarabut i—d
+t pheo rntereit
+ngaap ftuctuil 
+ofethpesranc a 
+ tneye garkismh
+ w ll msppedoae
+ thme. all ttAi
+anr m tte Maihs
+eee gus  havbtn
+dyr Deteing at.
+ophosureng t ip
+igfteit on oeih
+fotr enynine  u
+gh  wa lreatigt
+ t e asoseenn h
+d aariltuminelp
+ise, t  f thdok
+hetLifi st atr 
+tory,ckvObsea r
+eryot t en bPhr
+, indincof Ne a
+thyr  t en bohe
+ Erglobserve.sn
+s deaise rearhh
+irtt rd of if s
+ueiofinsthe s  
+te  A Ndtureaad
+ a. iug st 2Ium
+ t innctinedolh
+s tlak hhat itb
+e heezeamay v b
+ina on she cttg
+ gun,f ghe hetu
+st pi iv thean 
+o ihet nunk tst
+ feomirtplan, r
+irtsh which eh 
+ired ot  werfse
+ulParateus. c i
+ ag y msrkin,as
+inpd,etlunexa e
+ near were snee
+oftth tee si h 
+k rurateoutba d
+xt twinn theeg 
+oni. o tpposios
+burstThm sto er
+ixsye u on usp 
+w. Asarn agoos 
+oaphe Mprs arac
+oni Ld tpposio,
+Jaoa avflle  ev
+re  osew theits
+onsmif the arto
+gehpacaa excnl 
+winh lpgtati it
+g zntthi amanei
+ofca eleigen l 
+eat ohube ourgk
+cedt f encansin
+henplga  upots 
+adtocan t. Ihe 
+arts cuored wrd
+f themi nighodt
+anh t t;elft wd
+sctpeherspeco o
+ hi h, co whhte
+ rnsoadcat oe e
+canedrtdd, iiet
+ f am aomassf l
+hi,flin  gascge
+, govy eydronhm
+n hnoin  witage
+ciey rmlus voot
+is eatotardshw 
+jei orts. Th ht
+ bhcof aire dfe
+lesabmeiinvib  
+teu poua a qrtr
+. le asv tweetH
+t do co pareimt
+ psffa aoloslcu
+sumde oe fla fd
+ol ntnlv andiye
+d rutlytsquie o
+an t, op thelfe
+ngaga “ms flia 
+ oht see rusdsu
+ Ansiof.a gu”  
+ppyopng larlaur
+sehitrirte paa 
+et.th p ovedYr 
+ tdere aext ynh
+ino oe tas nhwg
+thi pf nhis  te
+ptxa apcrs eee 
+e nn liotle tti
+Telegthy Dai el
+thn wradh, a pe
+innigortd we l 
+ o e nooancefrn
+vegt ofrthe a s
+at evdatgershn 
+nea tertthree d
+acn. he humar e
+t  avI nightomh
+ t e e oeardfhh
+t nller ptioaua
+ mnt  hod I tae
+e  elOgtlvy,hiw
+tr nol-anownsko
+te shmeO, attrr
+ iwmeawa He s.m
+tex anscly eied
+, endt whe nsta
+ce s  ie thexns
+lifgsofehis e n
+e dp  i vitemnu
+tu n toatake  r
+ham nwi h hittt
+sc utigat in hr
+ rtd inh of eye
+ s itplInet.nap
+hal he  f altot
+d einasnhappe s
+l temcei I sl,r
+ vhgiemaer ttbi
+tidctl iery svn
+ac  alyb thel:k
+obnerndtsile  s
+e  havatory,hts
+era tdoned ltwn
+fe blhrawing oe
+n uhee plow ogt
+thi c fnoor  le
+ steaorher, ent
+ oi tdyntickg f
+rkkofhewcloco  
+cole, tee teshp
+e tli tte lilhs
+ooe—at  n thrif
+rogunn  blonpof
+tht sdihy wi te
+re ketasdusttra
+t.sOgd  crosia 
+ avouiley modvb
+lesbut,iinvib  
+ Llokt eudib.ao
+h oheinu thrggt
+, one tplesceeo
+clc o siw a rae
+e bndf leep uda
+e tou tte lilhr
+swemmndtplan  i
+ ftelinh in egi
+edesud.eIt sm  
+e thichta lil t
+ghb angr so i,t
+ndlstnd smala  
+lyimailn, fatl 
+trtnsrkhd wi ea
+pet, verse sirs
+lygflanh slitd 
+om thatfenedrt 
+rocnde terfe pu
+itole.  ut slBt
+o ,il i  wassts
+a rinvemy wa—rp
+ l gh’soheadf i
+asaift!sIt w   
+edv b ie quirt,
+thls utyreal  i
+le cowat theess
+ngawipetvibri  
+ivatythcthe t i
+oc wo oc thelfk
+pt thrkkthate  
+n tiee  laneipv
+tc edw.wAs Ia h
+etlse, ahe pnt 
+ow laemgd tore 
+madlerg r ansel
+dvoncr  nd taaa
+dee be cnd rea,
+s  imutwthata s
+y tyepl  thamye
+. r   wes tida 

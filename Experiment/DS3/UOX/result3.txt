@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+0.9
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+32146563251632
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         0.9
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   32146563251632
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+794.3355207130132               772.0728232823326
+790.6470799346134               772.0728232823326
+788.4771315325866               768.3462323875499
+785.273671402983                768.0701863835857
+781.3062903113429               765.4128462187757
+777.9201958890037               765.4128462187757
+774.5720803907702               765.4128462187757
+771.9637341244756               765.3315996254472
+771.071839642997                765.3315996254472
+770.4321094116752               765.3315996254472
+768.2369171544377               762.4881822109589
+766.9117217929399               762.4881822109589
+765.2773678855106               762.4881822109589
+764.104558241153                762.4881822109589
+763.5558034729415               762.4881822109589
+763.1981279817079               762.4881822109589
+762.8569531391736               762.4881822109589
+762.7131324841378               762.4881822109589
+762.5217603153147               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+762.4881822109579               762.4881822109589
+
+0 8 12 13 14 7 5 1 4 3 11 2 10 9 6 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+ransThe ti seMa
+he cem tavalco 
+ eirulatth deed
+wh ascenitmazt 
+betying tl—thsu
+tmateir heicama
+ng il leins ear
+lfarvidey  innt
+sf o exc ourses
+oave—and h ca t
+o thrrieuteird 
+rion preats wpa
+wl-nith eligha 
+cuna pert nimfe
+aourity.d  in H
+n pestrutsrmime
+twe tted, mig i
+eeenht h s thav
+eng e garitroth
+abacubler k i f
+neten thinente 
+u. Mh ceryen nt
+capalikehirel S
+cd tli whehe at
+at—ired net ipl
+ -ths odbye-bd,
+aforye, t  coth
+sentuntl curies
+sas es M hbeear
+sr on thtaf we 
+ ilear—bfad tut
+ret o inprthete
+uing fluat apct
+c ofpeares than
+is te mangheyrk
+do w map sellpe
+tt t. Alhaimel 
+aian therts m M
+vbeeust e n gha
+ adyettire. Dng
+t opurinheposg 
+oeigitiof hten 
+e foen ntyur in
+tigha gr lt wea
+nn tas s ohe ee
+ned illuatparmi
+hdist ofe k,  t
+athefirst  Lit 
+eatock Orvry,bs
+bPer they rotn 
+Ne, in oicandf 
+both they er n 
+e. Eobsersnglrv
+ars ish deheare
+ifirrd ot st f 
+ suein tis ofhe
+eate Nat dd Aur
+2I augus. m it 
+do tncli thinne
+ is k ththblaat
+ ve ze mhabeeay
+ctinn thasg oe 
+he gf thugun,e 
+east in  v pith
+ to t suinthenk
+n, fir petromla
+ eir whith shch
+rfirots e ed we
+ culat uPeiars.
+n, a margss yki
+xainet upled,ne
+sn n wereeeare 
+i of thete th s
+bak at oredurut
+eexting  n twth
+siono opits. po
+o buThe rmrstst
+usix upos  yen 
+oow.ars  n Asag
+aroa Marppches 
+siond opit, Lpo
+  Jaavelofva le
+eireset  ws oth
+aronf thstomie 
+cngecal ha paex
+i wilpitngth at
+ang the ziintam
+n ofellice a ge
+ureahugetbk o o
+nscef indent ca
+othegas n  plup
+Ihadanett  oc. 
+ warcurrtods ed
+hof midnt theig
+t an tweh;d tlf
+cosche stropepe
+hh h, toice h w
+oe rad ancesot 
+iicartedndted, 
+sf f a m olamas
+schiing , eflga
+on, y hygemovdr
+tan ing h enowi
+vocirmouelty s 
+shistowa t eard
+h jerth.ist o T
+ d bf fihaecore
+ibleme isi abnv
+qrteout uar pa 
+ee. ast lvHe tw
+eit compd to ar
+sl pa cosaufflo
+a su of meddefl
+diolnly  ventan
+ied ly srtoutqu
+elan of  pet,th
+ling “asam ga f
+sd oses heut ru
+u” Aof an. si g
+lappnguly ropar
+paseriathr ite 
+dYet pro.  thve
+ y te nedaherxt
+nhine waotg os 
+  thf thine pis
+eeptaperxc a s 
+ te littnoin le
+i Tethe lylegDa
+a thraphnde w, 
+e inorldnt ig w
+ef onora one nc
+ aveof tgrst he
+shatdang t ever
+eeneer tatd thr
+arache hn e. um
+tot I mi nhavgh
+df te he ohe ar
+oat erupn allti
+ t m hadnoet  I
+,he Ogil twelvy
+nstrl-kn aonoow
+tttemer, Orsh a
+ s iaw. wammeHe
+eitenselxcd ay 
+ns, t thewande 
+exce in  ess th
+ eliof hfengsis
+eme  invd up it
+e tuto t arn ak
+ithawithm t n h
+n scight arut i
+ e riny thed of
+.n splan Ipitet
+lthae ofl t h a
+ped as hensinap
+sll ce, tiremI 
+tt vembehaigir 
+ stil vedinctry
+elacly:  bk ath
+e obnd sntseril
+,he vato tshary
+lterdoweann td 
+g fehrow aeblin
+ on e gluptheow
+  th floine cor
+ e sornethtear,
+kg ody tinf tic
+corkhe ckw oflo
+esco thelepe, t
+ile  thettsli l
+hroot ine f—a t
+npron obg funlo
+i thditythe s w
+ttretard sakeus
+sit.d acs  Ogro
+od ailvyvebou m
+iblet, isi bunv
+b. Lt auleookdi
+rgh ing outheth
+ce,  teloponees
+ rcl sawcie o a
+ ue f deblandep
+ile  thettrou l
+n swnd petimmla
+ e fing thielin
+smedd. Iee sut 
+ile ch attthi l
+ ighng, brt aso
+landnd sl  stma
+atlyill,in ma f
+i trrkedthans w
+sipeverstrs, e 
+itlyand gh flsl
+dromatte f thne
+e roe pectundrf
+slit. Buo tlet 
+sso  it , silwa
+a—a veryrmpin w
+df l’s h oighea
+w ast! Ias ift 
+ired it ve, bqu
+l thut rlyis ea
+eelewas  tscoth
+ringpe vat wiib
+ tivth tacityhe
+eloc of  ckwoth
+teptrk t k thha
+ein e plt viean
+Iatcw. A wheds 
+pnet, thla see 
+orowemed g la t
+nsmargerd lle a
+tadvr ano ancd 
+redee anec, bd 
+tas ut t wsimha
+amy ply t eyeth
+id.  wasre    t

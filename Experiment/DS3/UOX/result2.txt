@@ -1,0 +1,671 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.1
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+2
+Enter seed
+756165131
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.1
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Uniformed Ordered Crossover
+SEED:                   756165131
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+793.4855835889039               780.7118710869194
+792.1892111720892               780.7315034511992
+790.7276985139915               777.7681613852734
+789.4305949715712               772.2786596760502
+788.5146696846157               769.5414321368304
+787.0420646604679               769.6158305042226
+785.4151313763547               763.964571431445
+783.1926780291361               761.0234279922126
+781.6820841143574               761.0234279922126
+778.3938130531066               760.8350412910696
+775.9723550758198               756.3441849642445
+775.35868346308         753.5317894440414
+773.8155226902193               753.5317894440414
+771.751713290992                751.2275950511553
+769.2179817836163               743.340042000977
+769.5952137306404               743.340042000977
+767.611393713634                743.340042000977
+763.3991442093304               743.340042000977
+758.9070098586085               743.340042000977
+755.2804270886514               743.340042000977
+750.9009925015057               743.340042000977
+750.3187174404568               743.340042000977
+751.0516639535938               743.340042000977
+750.3557441604686               743.340042000977
+746.6790836933527               743.340042000977
+746.8122257939992               743.340042000977
+748.6365611394592               743.340042000977
+747.8813056493141               743.340042000977
+747.8878520832725               743.340042000977
+747.7126998585044               743.340042000977
+747.1134660281053               743.340042000977
+747.5787883248221               743.340042000977
+747.6349728531094               743.340042000977
+746.4999666015694               743.340042000977
+747.3990056566556               743.340042000977
+746.7411353298348               743.340042000977
+747.369718625045                743.340042000977
+748.5061761246786               743.340042000977
+747.6232375356353               743.340042000977
+748.8311116642258               743.340042000977
+746.5508655270065               743.340042000977
+746.3415692718355               743.340042000977
+745.84887044269         743.340042000977
+745.7989460927449               743.340042000977
+747.1769103940255               743.340042000977
+747.2870330825675               743.340042000977
+746.8800681332514               743.340042000977
+746.6473182097219               743.340042000977
+746.2394037091913               743.340042000977
+747.3511352025585               743.340042000977
+746.9342085370139               743.340042000977
+747.4774209232502               743.340042000977
+747.7066889801088               743.340042000977
+746.6854968573368               743.340042000977
+746.7728362078606               743.340042000977
+747.3595656173794               743.340042000977
+747.8319115224596               743.340042000977
+747.8301259835926               743.340042000977
+746.9386957202256               743.340042000977
+748.2616343706966               743.340042000977
+747.1060932985826               743.340042000977
+748.1094562406043               743.340042000977
+747.0553519586971               743.340042000977
+746.8162000055993               743.340042000977
+746.5567441103273               743.340042000977
+745.989540542733                743.340042000977
+746.9752681569585               743.340042000977
+746.7133131241919               743.340042000977
+746.0019202067986               743.340042000977
+746.8263315392177               743.340042000977
+747.5562795106293               743.340042000977
+748.7393821538196               743.340042000977
+748.0643895459965               743.340042000977
+746.30300165636         743.340042000977
+746.1433192573618               743.340042000977
+747.2224259448725               743.340042000977
+748.2482973869008               743.340042000977
+748.5099470361114               743.340042000977
+748.8010743234352               743.340042000977
+748.8630718226847               743.340042000977
+749.0000135067316               743.340042000977
+748.785949672015                743.340042000977
+747.2228691863538               743.340042000977
+747.4826511477052               743.340042000977
+747.7613492221103               743.340042000977
+747.9995561697983               743.340042000977
+746.9844908967419               743.340042000977
+746.166207757947                743.340042000977
+746.9617598014895               743.340042000977
+748.3660566398601               743.340042000977
+749.0116490378574               743.340042000977
+750.6340806504046               743.340042000977
+747.6642215829711               743.340042000977
+748.3162828654918               743.340042000977
+748.0803617814761               743.340042000977
+748.4082982569993               743.340042000977
+747.9312499347477               743.340042000977
+746.982787162699                743.340042000977
+746.845882219823                743.340042000977
+747.4224198417025               743.340042000977
+747.4053146456406               743.340042000977
+747.3309229417335               743.340042000977
+748.4091465243421               743.340042000977
+747.6956459764789               743.340042000977
+748.8789466246467               743.340042000977
+747.2589481860459               743.340042000977
+745.9160877479025               743.340042000977
+747.6355344955045               743.340042000977
+746.9634039047813               743.340042000977
+746.4679657544434               743.340042000977
+748.0585533900875               743.340042000977
+748.5242327539627               743.340042000977
+747.6446353934401               743.340042000977
+747.7711163839654               743.340042000977
+748.3371412784637               743.340042000977
+749.8950638118529               743.340042000977
+749.6645884411721               743.340042000977
+749.3432614469872               743.340042000977
+749.0550299188527               743.340042000977
+748.4986262191419               743.340042000977
+748.7596755820928               743.340042000977
+749.6882400848126               743.340042000977
+749.2302016521555               743.340042000977
+747.5009903499167               743.340042000977
+748.2433367762742               743.340042000977
+747.3928779363123               743.340042000977
+748.1251703845534               743.340042000977
+749.0444237964674               743.340042000977
+747.0644861654494               743.340042000977
+747.3206611766193               743.340042000977
+748.0620469654282               743.340042000977
+748.1577754173516               743.340042000977
+747.8457074770917               743.340042000977
+747.6711005184402               743.340042000977
+747.1353016406306               743.340042000977
+748.0706552268234               743.340042000977
+748.2954145498526               743.340042000977
+749.1728799816758               743.340042000977
+749.9388391160486               743.340042000977
+749.8304909723082               743.340042000977
+748.6124833213242               743.340042000977
+749.3151519987312               743.340042000977
+748.9906509030096               743.340042000977
+749.5887496584734               743.340042000977
+747.7450973017367               743.340042000977
+748.8985849938505               743.340042000977
+749.5369332107723               743.340042000977
+748.8051776638546               743.340042000977
+748.5076853886691               743.340042000977
+749.1034744590547               743.340042000977
+749.5726096002436               743.340042000977
+748.2187677178104               743.340042000977
+747.7145422708796               743.340042000977
+748.1250458175845               743.340042000977
+748.7222725828141               743.340042000977
+748.5416189109415               743.340042000977
+750.3079685628995               743.340042000977
+749.8259844065411               743.340042000977
+750.1912449470324               743.340042000977
+749.3786072847583               743.340042000977
+746.8673913843388               743.340042000977
+747.557466471431                743.340042000977
+748.928592048497                743.340042000977
+748.4197995255552               743.340042000977
+748.3209160626923               743.340042000977
+748.930886733331                743.340042000977
+750.163743608558                743.340042000977
+748.5703900748658               743.340042000977
+749.2424874430186               743.340042000977
+750.1498358506364               743.340042000977
+748.2885444767343               743.340042000977
+746.7917452252888               743.340042000977
+746.824022006668                743.340042000977
+747.94965232722         743.340042000977
+747.1968197701448               743.340042000977
+745.7082309190669               743.340042000977
+746.2752330030369               743.340042000977
+746.224964973588                743.340042000977
+746.9827507781541               743.340042000977
+747.0514339423027               743.340042000977
+747.6585396775441               743.340042000977
+748.0211430333393               743.340042000977
+748.0948107949957               743.340042000977
+748.1813516456273               743.340042000977
+749.569147858476                743.340042000977
+747.9249729109347               743.340042000977
+747.5284895764727               743.340042000977
+748.2096891904594               743.340042000977
+748.0296485022176               743.340042000977
+747.864876505972                743.340042000977
+747.0685680204172               743.340042000977
+746.3386031988992               743.340042000977
+748.6157336370022               743.340042000977
+747.4736479361911               743.340042000977
+747.0863077384029               743.340042000977
+746.6823373804734               743.340042000977
+747.5277677398061               743.340042000977
+747.4233873157509               743.340042000977
+748.3144301333132               743.340042000977
+747.9269993667289               743.340042000977
+
+14 7 5 1 9 6 0 4 3 13 12 8 11 2 10 
+
+------SHREDDED DOCUMENT------
+
+r siteahaMe nsT
+htlva  meoca ce
+ tdhtadleee iru
+wnatie chtzm as
+b tltgunesh—tyi
+t cehraimmaiate
+ne nilr gaes il
+lei ydtifnn arv
+scro xsefesu o 
+odch ntaa a ve—
+oeitui r drethr
+re tarapipwson 
+w gleh tlahi-ni
+cri teepufmnna 
+a.i dyHto n uri
+numstret mirpes
+tdi ,eitw gme t
+ehts  vteah enh
+earirgh ntotg e
+ae  rlfbb ikacu
+nhnnit  eeteten
+uenyrct .n e Mh
+ceeihkSia lrpal
+cweeh tida h tl
+a  endletpit—ir
+ d-ybo, -dbeths
+a c t,hefto ory
+slrc tsneeiuntu
+sMeh  rsaaebs e
+sh att  rewf on
+ b af—triutdlea
+rnhrpie etett o
+uuataltficp ng 
+crtseane ah ofp
+iaegnmk sryh te
+dpls aemople w 
+tlmahA  tlei t.
+ae trhMti msan 
+v   etasbhgneeu
+ i ertgtanD.dye
+tnoehi r gspopu
+oot fi tenehigi
+enryt nn i ufoe
+tr l ga iewtgha
+nseo  esne h ta
+nuatalilemrpd i
+hf, eot d  kist
+asL tr itti hef
+eOyvr skab,rtoc
+beo yh tPntrer 
+Nonci  nefda, i
+ber yh ton eth 
+eegsrsvb.rln Eo
+a eedhesrrahs i
+iot t  dff sirr
+ tosi enshf uei
+et d arNauAdte 
+2s  .u gItim au
+diit leconnh tn
+ hlhttt iaabs k
+ meah yevaebe z
+ch sat  teoginn
+hhngut  ee,u gf
+e pv nhiati st 
+ uhnisk tneto t
+npote ar,lmr fi
+ ishthhwech ir 
+r d esetfw eiro
+ uaeP .tcsriula
+nr sgaim,kys a 
+xudlp etan,eine
+sraeee wnere n 
+ietethst  h of 
+bouer ttaurdk a
+e tn ghnetw xti
+sp.tioo ip sono
+o smreth strbuT
+uoy sp usne ix 
+o An sgroas w.a
+arhppa Mrsecoa 
+sp tioo ipL,ond
+ lafoeev l vJaa
+e  w theitosres
+ahmtst  reioonf
+c pahlxanea gec
+ithgnitp a twil
+a nizemhnatig t
+niaeclel g  ofe
+ue btgour okeah
+nntedia sc ncef
+o p nspatul heg
+Ito te nh.c ada
+ rsotrduwe darc
+hnh tdgioietf m
+te ;hwft ltdan 
+csprt eeopeosch
+ho citw h he h,
+oascn  detoe ra
+idedne ti,dtcar
+smao  safaml f 
+s f ,gancglehii
+oyoeghr ndvm, y
+t n hginawoen i
+vuyleo mos tcir
+saet wdohra ist
+h. sihTt  otjer
+ icahfe droe bf
+iiais vebnb lem
+q  aut uraprteo
+e evltwset H. a
+epo dmroia tt c
+sofasco llfu pa
+a demflo fedsu 
+d nv ynliateoln
+isutr uyeqtod l
+e tp fholt,ean 
+lsgmaaf“i a ng 
+s tehsuedr u os
+uas.n gf” i  Ao
+llo yurgaaprppn
+ptirha iaet ser
+dot .repYvh et 
+ eeadnt yxrh te
+na tow  hsogine
+ h nits  ipethf
+eracxe pes  pta
+ tnonteitl ie l
+i eyleah DglTet
+ah dnp a ,wethr
+editnlwr  g ino
+eaeo rcofn n on
+ ttrg efah sveo
+sget nrahev atd
+et ta rrehtdnee
+ah. n meru each
+tian mh ogvht I
+deeo hr fa h te
+opl nuiratlat e
+ dtonaIht  e m 
+,let iyghvlwe O
+nnna kw-soootrl
+t,sO raet hrtem
+  maw.ewsHem ia
+el cxe siyadten
+nhnwet  seda, t
+e se nhixt sce 
+ hgef sfeisnlio
+evp dntimi ue  
+etna  ko a rtut
+ih  mthit nthaw
+ntua hig  trsci
+  dhtyfneo e ri
+.niI atlnetp sp
+lf  loa t hthae
+phine pseansd a
+s eit, elImrl c
+tegahb mtrii ve
+ ecidvy srtntil
+e  b :hyltakacl
+esetn ld irsobn
+,oht tyahrase v
+le naw otdtnerd
+gwba onr ilefeh
+ lhpugw ooetn e
+ o nilrf oceth 
+ eehtn,rerat so
+kt ni cygitf od
+ccowk oeolf rkh
+eeeelhtts ,pco 
+ieltthltl ise  
+hn— eit r afoot
+nbu goo plnfron
+iy httwi  sethd
+tdks rsatuearet
+scO sao irg t.d
+oyoevvmld ub ai
+iibis v,bnu let
+buoelai .dko Lt
+r huoghngteth i
+clnpoesteeeo,  
+ w icaasr oecl 
+ enlbdp uedae f
+ieotthltl ure  
+npmte ad lmiswn
+  ehtgnneili fi
+sIsee  .mtu edd
+iahtt lhl ite c
+   rb,ogisatghn
+lss l adamt ndn
+a,mnilflt a lyi
+idnhtewk  satrr
+ss,rtr eie spev
+i fhgdlntsl lya
+detf tetrnh oma
+eentcpf  rduroe
+sul oB  ltetit.
+s i ,taiswlso  
+ayimrrwe— npa v
+dhgo  asfehi l’
+wIisa  ! tf ast
+i  evtuirqb,ed 
+lrsyl at e ithu
+e ct shaetoslew
+rvwta beiii ngp
+ ttca ehthyiivt
+e wc fholtokoc 
+tttk  akehh ptr
+eli tpn iaevn e
+IAew   .asdhtcw
+phsalt  nee et,
+odlg etmr a owe
+nrl deags elmar
+tnn oa  adcadvr
+rn cea  edb,dee
+ttiw  atahmss u
+a y tyhlmteey p
+is eratwd   .  
+
+
+------UNSHREDDED DOCUMENT------
+
+The Martisna se
+em to havc ealc
+ulated thrie de
+scent wita hmaz
+ing subtlyte—th
+eir mathetamica
+l learnini gs e
+vidently raf in
+ excess oo furs
+—and to heva ca
+rried outht eir
+ preparatnois w
+ith a weln-ligh
+ perfect anunim
+ity. Had ruo in
+strumentsep rmi
+tted it,  ewmig
+ht have snee th
+e gatheri gntro
+uble far cabk i
+n the nineteent
+h centuryM .en 
+like Schiaparel
+li watchet dhe 
+red planei—tt i
+s odd, byht-e-b
+ye, that rof co
+untless ctneuri
+es Mars h sabee
+n the stao rf w
+ar—but faelid t
+o interpr tethe
+ fluctuatgni ap
+pearancesfo  th
+e markingt shey
+ mapped sw oell
+. All that time
+ the Martnais m
+ust have eebn g
+etting reyda. D
+uring thepo pos
+ition of giehte
+en ninetyof ur 
+a great lhgit w
+as seen ot nhe 
+illuminat depar
+t of the sidk, 
+first at eht Li
+ck Observotary,
+ then by reProt
+in of Nic ,eand
+ then by htoer 
+observersE .ngl
+ish reade srhea
+rd of it rifst 
+in the iseus of
+ Nature detad A
+ugust 2. a Im i
+nclined tt ohin
+k that th sibla
+ze may ha evbee
+n the casnitg o
+f the hugg eun,
+ in the vtsa pi
+t sunk in otthe
+ir planetf ,rom
+ which thrie sh
+ots were rifed 
+at us. Peluciar
+ markingsa ,s y
+et unexplniaed,
+ were seen near
+ the sitefo  th
+at outbre kadur
+ing the ntxe tw
+o oppositnois. 
+The stormub rst
+ upon us xis ye
+ars ago n.wo As
+ Mars appaorche
+d oppositnoi, L
+avelle ofaJ va 
+set the weris o
+f the astnoromi
+cal exchaegn pa
+lpitatingiw th 
+the amazi gnint
+elligencefo  a 
+huge outbaerk o
+f incandeecsnt 
+gas upon eht pl
+anet. It dah oc
+curred torawds 
+midnight  fothe
+ twelfth;na d t
+he spectrcsoope
+, to which he h
+ad at oncr eeso
+rted, indacited
+ a mass of flam
+ing gas, ihcefl
+y hydroge ,nmov
+ing with  naeno
+rmous velicoty 
+towards tsih ea
+rth. Thisej t o
+f fire hab deco
+me invisielb ab
+out a quaetrr p
+ast twelv .eHe 
+compared  tito 
+a colossap luff
+ of flameus dde
+nly and vloient
+ly squirt deout
+ of the pnalet,
+ “as flamgni ga
+ses rusheo dut 
+of a gun.A ” si
+ngularly pparop
+riate phresa it
+ proved. teY th
+e next dat yher
+e was notnihg o
+f this inht e p
+apers exctpe a 
+little no etin 
+the DailyeT leg
+raph, andht e w
+orld wentni  ig
+norance oo fne 
+of the grevast 
+dangers ttah ev
+er threatened t
+he human care. 
+I might n tohav
+e heard ot fhe 
+eruption  taall
+ had I nom tet 
+Ogilvy, t ehwel
+l-known artsono
+mer, at Oettrsh
+aw. He wai smme
+nsely excetid a
+t the new ,sand
+ in the eecxss 
+of his feilengs
+ invited  emup 
+to take aut rn 
+with him ahtt n
+ight in acs rut
+iny of thr eed 
+planet. Is npit
+e of all ahtt h
+as happen desin
+ce, I sti llrem
+ember thav tigi
+l very diitsnct
+ly: the bcalk a
+nd silentbo ser
+vatory, t ehsha
+dowed lanretn t
+hrowing aef ebl
+e glow up nothe
+ floor inht e c
+orner, ths etea
+dy tickino gf t
+he clockwkro of
+ the teleocspe,
+ the litt elsli
+t in the oorf—a
+n oblong orpfun
+dity withht e s
+tardust sertake
+d across .ti Og
+ilvy movea dbou
+t, invisielb bu
+t audibleL .ook
+ing throu hgthe
+ telescop ,eone
+ saw a cilcre o
+f deep bl euand
+ the litt elrou
+nd planetws imm
+ing in thf eiel
+d. It seedem su
+ch a litt elthi
+ng, so brhgit a
+nd small dna st
+ill, fainylt ma
+rked withrt ans
+verse strepis, 
+and slighylt fl
+attened fmor th
+e perfector und
+. But so tiltle
+ it was,  ossil
+very warm a—pin
+’s head ol figh
+t! It wassa  if
+ it quiveder, b
+ut reallyht is 
+was the telesco
+pe vibratgni wi
+th the acvitity
+ of the ccolkwo
+rk that ktpe th
+e planet  nivie
+w. As I wctahed
+, the platen se
+emed to gwor la
+rger and amslle
+r and to vdaanc
+e and recede, b
+ut that w sasim
+ply that  ymeye
+ was tire .d 

@@ -1,0 +1,739 @@
+Enter a Even Number for Population Size
+200
+Enter a Even Number for Number of Generations
+200
+Enter the Crossover rate as a decimal (i.e 0.1 = 10%)
+1.0
+Enter Mutation rate as a decimal (i.e. 0.1 = 10%)
+0.0
+Enter Reproduction Value (K value):
+5
+Choose Crossover: 
+1. Ordered Crossover
+2. Uniformed Ordered Crossover
+1
+Enter seed
+98165196516
+---------------------------------------------------
+POPULATION:             200
+GENERATIONS:            200
+CROSSOVER RATE:         1.0
+MUTATION RATE:          0.0
+REPRODUCTION VALUE:     5
+CROSSOVER TYPE:         Ordered Crossover
+SEED:                   98165196516
+
+---------------------------------------------------
+Average                         BEST
+---------------------------------------------------
+922.6229991331202               908.8178312023307
+918.2085655569889               903.3262381676178
+914.1319493041437               897.6009116524456
+910.9477275758446               892.5135088581602
+906.7281745822777               889.0629267397217
+902.7232041318741               886.647012424711
+898.0798891822093               883.2951353490481
+895.1093741811129               878.6089649167474
+889.318468630432                876.0133026796265
+885.5860758179384               867.5657676753707
+880.136110900708                867.5657676753707
+876.0344857851543               867.5657676753707
+872.4608957236738               867.5657676753707
+869.630096156306                867.5657676753707
+868.8334503336529               867.5657676753707
+868.298128644453                867.5657676753707
+867.9230458787486               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.6849774401765               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+867.5657676753736               867.5657676753707
+
+10 14 0 12 3 4 13 8 11 5 7 2 6 9 1 
+
+------SHREDDED DOCUMENT------
+
+ l hecHkloToSro
+saashsl  wmi ee
+ Inhem.aw yot s
+aeme d oeh lvsh
+dnthiein oam mr
+e a urn dy ernh
+h  r eI.anoment
+sceeys hseh  ei
+pdpesdr aelns i
+iheatt hswo nem
+e.sofre hxoe  l
+ta waott h n sI
+hen f yal ttee 
+t  onitnaomki o
+v e fInrrel eoo
+lter.lm AoAle d
+n h,  atntidsao
+ellpacautroi rn
+ eoerbrh ryawe,
+ ,oo  lcidnstht
+rdtcib uea  esp
+reablanl cmbayi
+m,wndea  sdHi. 
+ e aktt, h iteI
+orct ftee  rspm
+sbdnia ngoe ona
+rehinaic nsmvge
+hdot  rwhl eatt
+a b s,u et nseh
+ wh lre v aeaos
+lel h apvcoedau
+h nms  iladfie 
+l.ie iotonfsspa
+eepne osek r vH
+f tthoef r s eo
+s aio vssep,sna
+td  abaegnwih i
+  hne eTry .sea
+r b arlamewiede
+i tgsrh feton h
+slcrveexrlo eeb
+tgwforia ned rn
+h r v ofim leet
+naes isvo mt’me
+ t ctsB.ounnaid
+oea ttiren  rhf
+ratasro n deeo 
+iun s ticrdhtum
+o hs oi nsstnii
+nnedea tiaoc lw
+ftjneaudysd il 
+  eemanmetertpd
+scototdriuwn  a
+agtdiaictner s 
+amctohhi   wcrf
+hoa tw  rdiothg
+tilupa lnhu  ob
+mtsntruells ea 
+ earin   ssiGt.
+imtivnrs unites
+tkr o ac cea,rn
+n honfi  s o ei
+n whipeohro- gw
+nnlesodu  lws,e
+ tde ei osorbmt
+bs ngaant uhi r
+oiog tnim toner
+ahsnaeu ucnr t 
+sedhiA n.y   sa
+tt erabs utwhe 
+nht wno m  aeoo
+,otanh a wit dm
+nt wahle amt sa
+I eendrl ,eAre 
+  aubsn odoudif
+eeetib lnmqasou
+re . asd emhyIo
+ll ttoHfeon il 
+s  layM.eyml te
+rrdiah aedm rga
+tfad ayws i euf
+m.heaoethrr  co
+ytpowolm e c nM
+hn,pps snaeeai 
+ttce ee-ondmhh 
+dwtinesse rr te
+crp r  usahehii
+nhn tm aewo dhu
+fhdrsisn  ofit 
+soelfsrtm iae m
+hbss  tewafnio 
+s eme rwtel,hni
+faticto e snfiu
+otyb   mlablras
+n iiowlh,et tne
+la eshlo oHwm,o
+emf eyo ertrdvh
+ft sotwyii e co
+hh s lBehohoiw 
+im n lr,oeeuasm
+nord o unla eii
+irags kBiednn g
+tdreebiu,e  rtS
+m ongsl hd io a
+oeas,dl atbnk o
+aeminr o wrftgn
+ wbo ke eteetwk
+nd conaeanei ce
+m tit,h oe nbia
+otosisf e dswnr
+ hdrua n,th dge
+fyeerernege ic 
+fe hiwkn e o so
+naetu  Hewn.ar 
+se ilaes,vs tl 
+ atee talrrydp,
+eu  bhse tctdyt
+ n,f m eradiocy
+o hcudi isdecp 
+miunsalc tifeem
+ dandtorerexa s
+afsy e rooiwrpn
+bnneri oai tsvo
+o ologu it nlwf
+on,e e slatusch
+ctueagp i dnlr 
+s i meersshteyo
+i eh  ebanwdchh
+aosdo  aehadnnb
+lohss etb pye e
+i.iiaocl efpclf
+rttm eo i  motF
+em I rsdeoia hm
+vtogucuc neaae 
+f:nhiogi s d so
+fsmhiuom n s so
+otiOdan s  s et
+  tasfh  ehocee
+e,dofuer rTmpfr
+fnahilre i c so
+un  ohse igtpf 
+lodr gyer gaatu
+t se iontnfkhA 
+oi heaTtsrb trr
+ofnal dae n,mec
+amhly eto ifl n
+sehoni cwhihi s
+ahl amipcs odch
+ lao itceeelsdd
+ausd cseufycns 
+yi fohre elt rl
+ifyg i laogmnfn
+onela yBdo .lnH
+tonesisg  dshe 
+h,is itvcyftia 
+ohhev iwrc ,weh
+ eher aslr ymeI
+w tthlh aedli  
+a terfh  erodse
+i ,y s srIdelpa
+e   lloetfktwin
+ nror ifeemrfmy
+annd piaoodmnc 
+O  e hitit.gnn 
+sntonew tewh  a
+e,rh Mcafht toi
+8t 8—ars e w8I1
+nj ngoamf uri r
+rt ey pataoon u
+nd  ( hIoairtfe
+ote rrdnt  uwen
+cccvirta iopil 
+,y whmwynae  e)
+eho mhur g tdel
+a eerrteS. tk B
+ e  petdshAsIas
+eebl-eemer mlrw
+dmcorhhi  dwo, 
+tabalse a uy ws
+oynia  iemsdcts
+iwmd hy i  tnwm
+ihwg,di atonn o
+hdn d ciri keat
+tu  ohSe tetsfn
+  en rtlc,daiSy
+wids z eewIias 
+ re k sdeitnaeh
+tsl sHmoeee oe 
+g  inntd o aa,a
+os  hhwewak won
+m hlogi is npye
+tpraonyad eirrx
+emrs.so Hooir w
+wnlreiilbasre  
+yedlia,n, t  tl
+ndoaslkoIev   e
+p h Iwi ss a, u
+lg , rfepitalsa
+e ipatcwseu  sr
+ oi d lsrhikaan
+ttse itng uatae
+ aeli  Hdwh.bne
+poecit hgrs an 
+ g wiye,taolsfm
+l h, hi isetywr
+a p s ounnhkdue
+shnch das ht ei
+ eaancslspi hds
+bTmhih.id d en 
+m n,  ekhwooew 
+s oev omrdhy ei
+d hha,i isat bn
+tadtua nema idt
+erh t etlindron
+w   syH.oe rnto
+sa atrakwgwo  a
+.erHedi hsia  n
+orst h ifdn uo 
+-adredr teuecag
+  hndso wtmaa s
+o e tsncetu nhp
+ o omepw ronsef
+ehg. a n tbrmIl
+b wllda asene  
+oe n ttophs wuh
+h imbwchrh  aec
+deyfor lmbhe ra
+ omn ty a eripn
+. nHiaen rwm sn
+svunofsf iwe ta
+ amt d oewelIs.
+ gaut swh seb ;
+dtk Ii,nt lh, a
+s ie  tWeho.em 
+rsrlywdoa h d a
+khwn,ti btpue o
+  yin eel, ykda
+   avmtedoh wee
+ h,rmi rhtaaacn
+w hacsi osrs re
+s,a oirg sccefa
+n t iceadd idna
+sasirceat a pi 
+ in ggees n aad
+tTre n.eo nrhc 
+nedheo osbht  e
+rar tfeie f eho
+ veoo  meondlkd
+ uin  nsigesihr
+rieinscprtlo ta
+   asn .i vofhe
+
+
+------UNSHREDDED DOCUMENT------
+
+To Sherlock Hol
+mes she is alwa
+ys the woman. I
+ have seldom he
+ard him mention
+ her under any 
+other name. In 
+his eyes she ec
+lipses and pred
+ominates the wh
+ole of her sex.
+ It was not tha
+t he felt any e
+motion akin to 
+love for Irene 
+Adler. All emot
+ions, and that 
+one particularl
+y, were abhorre
+nt to his cold,
+ precise but ad
+mirably balance
+d mind. He was,
+ I take it, the
+ most perfect r
+easoning and ob
+serving machine
+ that the world
+ has seen, but 
+as a lover he w
+ould have place
+d himself in a 
+false position.
+ He never spoke
+ of the softer 
+passions, save 
+with a gibe and
+ a sneer. They 
+were admirable 
+things for the 
+observer excell
+ent for drawing
+ the veil from 
+men’s motives a
+nd actions. But
+ for the traine
+d reasoner to a
+dmit such intru
+sions into his 
+own delicate an
+d finely adjust
+ed temperament 
+was to introduc
+e a distracting
+ factor which m
+ight throw a do
+ubt upon all hi
+s mental result
+s. Grit in a se
+nsitive instrum
+ent, or a crack
+ in one of his 
+own high-power 
+lenses, would n
+ot be more dist
+urbing than a s
+trong emotion i
+n a nature such
+ as his. And ye
+t there was but
+ one woman to h
+im, and that wo
+man was the lat
+e Irene Adler, 
+of dubious and 
+questionable me
+mory. I had see
+n little of Hol
+mes lately. My 
+marriage had dr
+ifted us away f
+rom each other.
+ My own complet
+e happiness, an
+d the home-cent
+red interests w
+hich rise up ar
+ound the man wh
+o first finds h
+imself master o
+f his own estab
+lishment, were 
+sufficient to a
+bsorb all my at
+tention, while 
+Holmes, who loa
+thed every form
+ of society wit
+h his whole Boh
+emian soul, rem
+ained in our lo
+dgings in Baker
+ Street, buried
+ among his old 
+books, and alte
+rnating from we
+ek to week betw
+een cocaine and
+ ambition, the 
+drowsiness of t
+he drug, and th
+e fierce energy
+ of his own kee
+n nature. He wa
+s still, as eve
+r, deeply attra
+cted by the stu
+dy of crime, an
+d occupied his 
+immense faculti
+es and extraord
+inary powers of
+ observation in
+ following out 
+those clues, an
+d clearing up t
+hose mysteries 
+which had been 
+abandoned as ho
+peless by the o
+fficial police.
+ From time to t
+ime I heard som
+e vague account
+ of his doings:
+ of his summons
+ to Odessa in t
+he case of the 
+Trepoff murder,
+ of his clearin
+g up of the sin
+gular tragedy o
+f the Atkinson 
+brothers at Tri
+ncomalee, and f
+inally of the m
+ission which he
+ had accomplish
+ed so delicatel
+y and successfu
+lly for the rei
+gning family of
+ Holland. Beyon
+d these signs o
+f his activity,
+ however, which
+ I merely share
+d with all the 
+readers of the 
+daily press, I 
+knew little of 
+my former frien
+d and companion
+. One night it 
+was on the twen
+tieth of March,
+ 1888—I was ret
+urning from a j
+ourney to a pat
+ient (for I had
+ now returned t
+o civil practic
+e), when my way
+ led me through
+ Baker Street. 
+As I passed the
+ well-remembere
+d door, which m
+ust always be a
+ssociated in my
+ mind with my w
+ooing, and with
+ the dark incid
+ents of the Stu
+dy in Scarlet, 
+I was seized wi
+th a keen desir
+e to see Holmes
+ again, and to 
+know how he was
+ employing his 
+extraordinary p
+owers. His room
+s were brillian
+tly lit, and, e
+ven as I looked
+ up, I saw his 
+tall, spare fig
+ure pass twice 
+in a dark silho
+uette against t
+he blind. He wa
+s pacing the ro
+om swiftly, eag
+erly, with his 
+head sunk upon 
+his chest and h
+is hands claspe
+d behind him. T
+o me, who knew 
+his every mood 
+and habit, his 
+attitude and ma
+nner told their
+ own story. He 
+was at work aga
+in. He had rise
+n out of his dr
+ug-created drea
+ms and was hot 
+upon the scent 
+of some new pro
+blem. I rang th
+e bell and was 
+shown up to the
+ chamber which 
+had formerly be
+en in part my o
+wn. His manner 
+was not effusiv
+e. It seldom wa
+s; but he was g
+lad, I think, t
+o see me. With 
+hardly a word s
+poken, but with
+ a kindly eye, 
+he waved me to 
+an armchair, th
+rew across his 
+case of cigars,
+ and indicated 
+a spirit case a
+nd a gas gene i
+n the corner. T
+hen he stood be
+fore the fire a
+nd looked me ov
+er in his singu
+lar introspecti
+ve fashion.   
