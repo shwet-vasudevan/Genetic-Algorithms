@@ -1,5 +1,10 @@
 # Ignore
 .DS_Store
+Experiment/.DS_Store
+Experiment/DS1/.DS_Store
+Experiment/DS2/.DS_Store
+Experiment/DS3/.DS_Store
+src/.DS_Store
 
 #Ignroe Folder
 out/
